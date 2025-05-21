@@ -649,7 +649,13 @@
   },
   {
     "title": "Practice Companion Planting",
-    "prompt": "Some plants thrive when grown near others that offer mutual benefits (e.g., pest deterrence, nutrient sharing, structural support). What elements of your project, or which team members/stakeholders, could be 'companion planted'?\n\n*   Identify entities that, if brought into closer collaboration, would create synergistic benefits.\n*   What unique strengths does each bring that could support the other's weaknesses or enhance their output?\n\nDescribe the 'companion planting' strategy. How will you foster these mutually beneficial relationships to create a more resilient and productive 'garden'?",
+    "prompt": "Some plants enhance each other's growth when planted together, while others compete or inhibit.\n\nAnalyze your project's elements:\n- Which components naturally support each other?\n- What combinations create mutual benefits?\n- Where might competition be reducing effectiveness?\n- How can you arrange elements to maximize positive interactions?\n\nDesign your project layout to foster beneficial relationships between different parts.",
+    "theme": "Nature",
+    "tag": ""
+  },
+  {
+    "title": "Practice Water Management",
+    "prompt": "Successful farming depends on understanding water's movement: too little or too much can be equally problematic.\n\nAnalyze your project's flow of resources:\n- Where are the natural channels of communication and support?\n- What areas suffer from drought or flood of attention?\n- How can you create sustainable irrigation systems?\n- Where should you build retention capacity for lean times?\n\nDevelop a water management plan that works with, not against, your natural gradients and patterns.",
     "theme": "Nature",
     "tag": ""
   },
