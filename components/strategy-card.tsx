@@ -85,8 +85,19 @@ export function StrategyCard({ card }: StrategyCardProps) {
         
         <div 
           onClick={copyToClipboard}
-          className="relative bg-muted/20 rounded-md p-5 font-mono text-sm leading-relaxed cursor-pointer transition-all 
-                   hover:bg-muted/40 hover:shadow-md whitespace-pre-line"
+          className="relative rounded-md p-5 font-mono text-sm leading-relaxed cursor-pointer transition-all 
+                   hover:shadow-md whitespace-pre-line"
+          style={{ 
+            backgroundColor: 'rgba(0, 0, 0, 0.03)',
+            border: '1px solid transparent',
+            transition: 'all 0.1s ease-in-out'
+          }}
+          onMouseEnter={(e) => {
+            e.currentTarget.style.borderColor = 'rgba(0, 0, 0, 0.2)';
+          }}
+          onMouseLeave={(e) => {
+            e.currentTarget.style.borderColor = 'transparent';
+          }}
           aria-label={`Click to copy: ${card.prompt}`}
           role="button"
           tabIndex={0}
@@ -105,9 +116,8 @@ export function StrategyCard({ card }: StrategyCardProps) {
                 <span>Copied!</span>
               </div>
             ) : (
-              <div className="bg-muted/50 border rounded-md p-1 flex items-center gap-1 text-xs font-sans">
+              <div className="bg-white/70 border rounded-md p-1 flex items-center justify-center">
                 <CopyIcon className="h-3.5 w-3.5" />
-                <span>Copy</span>
               </div>
             )}
           </div>

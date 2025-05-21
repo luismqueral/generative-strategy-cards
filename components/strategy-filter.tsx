@@ -19,19 +19,19 @@ export function StrategyFilter({ onFilterChange, onCategoryChange, uniqueThemes,
   const categories = ['Featured', 'Psychology', 'Science', 'Philosophy', 'History', 'Art', 'Nature', 'Politics', 'Religion', 'Architecture', 'Chaotic', 'Experimental', 'Other'];
 
   const categoryColors: Record<string, string> = {
-    Featured: '#f5f5f5', // Light gray
-    Psychology: '#f0e68c', // Light khaki
-    Science: '#add8e6', // Light blue
-    Philosophy: '#dda0dd', // Plum
-    History: '#ffb6c1', // Light pink
-    Art: '#98fb98', // Pale green
-    Nature: '#afeeee', // Pale turquoise
-    Experimental: '#ffdead', // Navajo white
-    Politics: '#ffcccb', // Light red
-    Religion: '#d3d3d3', // Light grey
-    Architecture: '#ffe4b5', // Moccasin
-    Chaotic: '#ff9966', // Peach/orange
-    Other: '#f5f5dc' // Beige
+    Featured: '#f9f9f9', // Lighter gray
+    Psychology: '#fffaed', // Lighter khaki
+    Science: '#f0f8ff', // Lighter blue
+    Philosophy: '#f8f0ff', // Lighter purple
+    History: '#fff0f5', // Lighter pink
+    Art: '#f0fff0', // Lighter green
+    Nature: '#f0ffff', // Lighter turquoise
+    Experimental: '#fff5e6', // Lighter orange/peach
+    Politics: '#fff0f0', // Lighter red
+    Religion: '#f8f8f8', // Lighter grey
+    Architecture: '#fff8ee', // Lighter moccasin
+    Chaotic: '#fff0e6', // Lighter orange
+    Other: '#fafafa' // Lighter beige
   };
 
   const categoryDarkColors: Record<string, string> = {
@@ -83,19 +83,19 @@ export function StrategyFilter({ onFilterChange, onCategoryChange, uniqueThemes,
               onClick={() => handleCategoryClick(category)}
               className={`px-6 py-3 text-lg rounded-lg cursor-pointer`}
               style={{
-                backgroundColor: activeCategory === category ? categoryDarkColors[category] : 'rgba(0, 0, 0, 0.05)',
+                backgroundColor: activeCategory === category ? categoryDarkColors[category] : 'rgba(0, 0, 0, 0.03)',
                 color: activeCategory === category ? '#fff' : '#000',
                 transition: 'all 0.1s ease-in-out'
               }}
               onMouseEnter={(e) => {
                 if (activeCategory !== category) {
-                  e.currentTarget.style.backgroundColor = 'rgba(0, 0, 0, 0.2)';
+                  e.currentTarget.style.backgroundColor = 'rgba(0, 0, 0, 0.1)';
                   e.currentTarget.style.color = '#000';
                 }
               }}
               onMouseLeave={(e) => {
                 if (activeCategory !== category) {
-                  e.currentTarget.style.backgroundColor = 'rgba(0, 0, 0, 0.05)';
+                  e.currentTarget.style.backgroundColor = 'rgba(0, 0, 0, 0.03)';
                   e.currentTarget.style.color = '#000';
                 }
               }}
