@@ -16,7 +16,7 @@ export function StrategyFilter({ onFilterChange, onCategoryChange, uniqueThemes,
   const [activeCategory, setActiveCategory] = useState<string>('Featured');
   const [activeTag, setActiveTag] = useState<string | null>(null);
 
-  const categories = ['Featured', 'Psychology', 'Science', 'Philosophy', 'History', 'Art', 'Nature', 'Experimental', 'Politics', 'Religion', 'Architecture', 'Chaotic', 'Other'];
+  const categories = ['Featured', 'Psychology', 'Science', 'Philosophy', 'History', 'Art', 'Nature', 'Politics', 'Religion', 'Architecture', 'Chaotic', 'Experimental', 'Other'];
 
   const categoryColors: Record<string, string> = {
     Featured: '#f5f5f5', // Light gray
