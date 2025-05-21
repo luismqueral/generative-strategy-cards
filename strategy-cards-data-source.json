@@ -649,7 +649,13 @@
   },
   {
     "title": "Practice Companion Planting",
-    "prompt": "Some plants thrive when grown near others that offer mutual benefits (e.g., pest deterrence, nutrient sharing, structural support). What elements of your project, or which team members/stakeholders, could be 'companion planted'?\n\n*   Identify entities that, if brought into closer collaboration, would create synergistic benefits.\n*   What unique strengths does each bring that could support the other's weaknesses or enhance their output?\n\nDescribe the 'companion planting' strategy. How will you foster these mutually beneficial relationships to create a more resilient and productive 'garden'?",
+    "prompt": "Some plants enhance each other's growth when planted together, while others compete or inhibit.\n\nAnalyze your project's elements:\n- Which components naturally support each other?\n- What combinations create mutual benefits?\n- Where might competition be reducing effectiveness?\n- How can you arrange elements to maximize positive interactions?\n\nDesign your project layout to foster beneficial relationships between different parts.",
+    "theme": "Nature",
+    "tag": ""
+  },
+  {
+    "title": "Practice Water Management",
+    "prompt": "Successful farming depends on understanding water's movement: too little or too much can be equally problematic.\n\nAnalyze your project's flow of resources:\n- Where are the natural channels of communication and support?\n- What areas suffer from drought or flood of attention?\n- How can you create sustainable irrigation systems?\n- Where should you build retention capacity for lean times?\n\nDevelop a water management plan that works with, not against, your natural gradients and patterns.",
     "theme": "Nature",
     "tag": ""
   },
@@ -814,5 +820,161 @@
     "prompt": "Consider the American Founding Fathers' federalist approach: creating workable systems from competing interests through structural compromise.\n\n*   What fundamental tensions or competing interests exist within your situation?\n*   How might these tensions be productively balanced rather than resolved in favor of one side?\n*   What checks and balances or separation of powers could create sustainable equilibrium?\n\nDescribe how this federalist approach—designing systems that accommodate and balance legitimate differences rather than eliminating them—might create robust solutions for complex environments.",
     "theme": "Politics",
     "tag": ""
+  },
+  {
+    "title": "Follow the Dovetail's Logic",
+    "prompt": "The dovetail joint becomes stronger under stress—the more you pull, the tighter it holds. Its strength comes from working with, rather than against, the forces it faces.\n\nHow could the forces opposing you become sources of strength?\nWhere might resistance actually be essential to your structure?\nWhat connections grow stronger under pressure?\n\nConsider how you might design solutions that, like the dovetail, transform opposition into strength. What would change if you welcomed rather than resisted pressure?",
+    "theme": "Other",
+    "tag": ""
+  },
+  {
+    "title": "Embrace the Tearout",
+    "prompt": "Sometimes wood tears unpredictably, despite our best techniques. Master craftspeople know when to change direction and when to incorporate these unexpected patterns into their design.\n\nHow could unexpected disruptions become features rather than flaws?\nWhere might resistance be suggesting a different direction?\nWhat 'mistakes' could lead to new possibilities?\n\nConsider how embracing rather than fighting unexpected outcomes might lead to more interesting results. What tears in your plan might actually be doorways?",
+    "theme": "Other",
+    "tag": ""
+  },
+  {
+    "title": "Build the Jig First",
+    "prompt": "Sometimes the most important part isn't the final piece, but the system you build to create it. A well-designed jig makes complex tasks simple and repeatable.\n\nWhat supporting structures could make your difficult tasks routine?\nHow might investing in process now multiply your capabilities later?\nWhere are you repeatedly solving the same problem?\n\nWhat would change if you spent as much time designing your process as you do using it?",
+    "theme": "Other",
+    "tag": ""
+  },
+  {
+    "title": "Let the Shavings Tell the Story",
+    "prompt": "A curl of wood from a well-tuned plane tells everything: the sharpness of the blade, the grain direction, the moisture content. Every process leaves similar telltale signs.\n\nWhat subtle indicators are you overlooking?\nHow might the 'waste' from your process contain valuable information?\nWhat stories are your failures trying to tell you?\n\nWatch the small signs your work produces. What secrets might be revealed in the parts you usually sweep away?",
+    "theme": "Other",
+    "tag": ""
+  },
+  {
+    "title": "Apply the Ship of Theseus",
+    "prompt": "If every part of a ship is gradually replaced, at what point does it cease to be the same ship? Consider your situation through this ancient paradox of identity and change.\n\nWhat core elements seem essential but might actually be replaceable?\nHow might gradual transformation maintain continuity while enabling complete renewal?\nAt what point does incremental change create something entirely new?\n\nLike the paradoxical ship, how might your understanding of identity and persistence transform if you question what truly makes something 'the same'?",
+    "theme": "Philosophy",
+    "tag": ""
+  },
+  {
+    "title": "Invoke Occam's Razor",
+    "prompt": "The simplest explanation requiring the fewest assumptions is often the best. Strip your situation to its essential elements.\n\nWhat assumptions are you multiplying beyond necessity?\nWhich complexities are truly fundamental, and which are self-imposed?\nHow might radical simplification reveal a clearer path forward?\n\nConsider how removing layers of unnecessary complexity might reveal the elegant solution hiding beneath elaborate explanations.",
+    "theme": "Philosophy",
+    "tag": ""
+  },
+  {
+    "title": "Enter Plato's Cave",
+    "prompt": "Like the prisoners in Plato's allegory, we often mistake shadows for reality. Question your most fundamental assumptions about what's 'real' in your situation.\n\nWhat shadows are you mistaking for substance?\nWhich comfortable illusions might you need to abandon?\nHow could ascending to a higher perspective transform your understanding?\n\nWhat would happen if you turned away from the familiar shadows and faced the source of light?",
+    "theme": "Philosophy",
+    "tag": ""
+  },
+  {
+    "title": "Practice Hegelian Dialectic",
+    "prompt": "Thesis meets antithesis to create synthesis. Identify the opposing forces in your situation and seek their higher unity.\n\nWhat fundamental opposition drives your current challenge?\nHow might these contradictions contain the seeds of their own resolution?\nWhat new synthesis could emerge from embracing both sides?\n\nConsider how apparent contradictions might be resolved not by choosing one side, but by discovering their deeper unity.",
+    "theme": "Philosophy",
+    "tag": ""
+  },
+  {
+    "title": "Apply Nietzschean Perspectivism",
+    "prompt": "There are no facts, only interpretations. Each perspective reveals one facet of a complex truth.\n\nWhat radically different viewpoints might illuminate your situation?\nHow might opposing interpretations all contain partial truths?\nWhat becomes possible when you abandon the search for a single 'correct' view?\n\nLike Nietzsche's perspectivism, how might embracing multiple viewpoints reveal a richer understanding than seeking a single truth?",
+    "theme": "Philosophy",
+    "tag": ""
+  },
+  {
+    "title": "Employ the Categorical Imperative",
+    "prompt": "Consider Kant's principle: Act only according to rules you could will to become universal laws.\n\nWhat if everyone in your situation acted exactly as you propose?\nWhich of your principles could truly serve as universal laws?\nHow might this lens of universality transform your choices?\n\nWhat changes when you evaluate your actions not just by their immediate effects, but by their fitness as universal principles?",
+    "theme": "Philosophy",
+    "tag": ""
+  },
+  {
+    "title": "Navigate the Trolley Problem",
+    "prompt": "Like the famous ethical dilemma of choosing between two tragic outcomes, examine your situation through the lens of impossible choices.\n\nWhat underlying values conflict in your current dilemma?\nHow do intentions and consequences weigh against each other?\nWhat principles could guide you through seemingly impossible choices?\n\nConsider how philosophical frameworks for addressing moral dilemmas might illuminate your path through difficult decisions.",
+    "theme": "Philosophy",
+    "tag": ""
+  },
+  {
+    "title": "Channel Socratic Ignorance",
+    "prompt": "Embrace the paradox that true wisdom begins with acknowledging what we don't know.\n\nWhat do you think you know that might be preventing deeper understanding?\nHow might systematic questioning reveal hidden assumptions?\nWhat becomes possible when you adopt the stance of 'knowing that you don't know'?\n\nLike Socrates, how might embracing your ignorance lead to deeper wisdom than defending your current knowledge?",
+    "theme": "Philosophy",
+    "tag": ""
+  },
+  {
+    "title": "Apply Buddhist Emptiness",
+    "prompt": "Consider the Buddhist concept of śūnyatā: all phenomena are empty of inherent existence and arise through interdependent origination.\n\nWhat seemingly solid elements of your situation are actually fluid and interdependent?\nHow might releasing attachment to fixed outcomes create new possibilities?\nWhat changes when you view your challenge as a nexus of relationships rather than independent entities?\n\nHow might embracing emptiness and interconnection transform your approach to apparent obstacles?",
+    "theme": "Philosophy",
+    "tag": ""
+  },
+  {
+    "title": "Invoke Sartre's Radical Freedom",
+    "prompt": "We are 'condemned to be free,' responsible for creating meaning in an ultimately meaningless universe.\n\nWhat constraints in your situation are actually self-imposed choices?\nHow might radical acceptance of freedom and responsibility transform your approach?\nWhat becomes possible when you fully embrace your role as meaning-maker?\n\nConsider how existential freedom might both burden and empower you to create new possibilities.",
+    "theme": "Philosophy",
+    "tag": ""
+  },
+  {
+    "title": "Mind the Section Cut",
+    "prompt": "Buildings reveal their true nature when sliced open. That perfect line that exposes all layers at once - from foundation to roof, from public to private, from structure to skin.\n\nWhat stories hide between your floors? Cut through your challenge vertically, ruthlessly. Watch how each layer speaks to the others. Notice the hidden chambers, the unexpected connections, the places where different systems touch.\n\nSometimes the most profound insights lie in these surgical revelations. What would a clean slice through your problem expose?",
+    "theme": "Architecture",
+    "tag": ""
+  },
+  {
+    "title": "Design the Negative Space - 間 (Ma)",
+    "prompt": "First, forget everything you want to add.\nInstead, contemplate the spaces between.\nThe gaps.\nThe pauses.\nThe emptiness that gives meaning to form.\n\nLike a Japanese master crafting an alcove where absence speaks louder than presence - what could you remove to make your idea stronger? Where might a carefully crafted void create more impact than any addition?\n\nRemember: It's the space between the notes that makes the music.",
+    "theme": "Architecture",
+    "tag": ""
+  },
+  {
+    "title": "Natural Light as Teacher",
+    "prompt": "Dawn: Long shadows reveal hidden textures\nNoon: Harsh truth of direct illumination\nDusk: Subtle details emerge in slanting rays\nNight: What was hidden now glows from within\n\nYour challenge changes like a building through the day's cycles. When does it show its true nature? What faces east? What hidden corners never see the sun? Where could you cut a new window?\n\nLet time be your collaborator. The sun always finds a way in.",
+    "theme": "Architecture",
+    "tag": ""
+  },
+  {
+    "title": "Prospect & Refuge: A Meditation",
+    "prompt": "Find the highest point in your mind's building.\nLook out across the vast expanse.\nNow seek the intimate corner, the sheltered nook.\nYour solution needs both.\n\nWe are creatures of cave and savanna, forever seeking that perfect balance between overview and sanctuary. Your challenge holds these same primal needs:\n- Where can you stand to see everything?\n- Where can you hide to reflect?\n- How do you move between exposure and shelter?\n\nBuild both the watchtower and the hearth. Your users need somewhere to dream and somewhere to retreat.",
+    "theme": "Architecture",
+    "tag": ""
+  },
+  {
+    "title": "Circulation Patterns: A Field Guide",
+    "prompt": "Watch how people move when no one's watching.\nThey ignore your carefully planned paths.\nThey create desire lines across empty spaces.\nThey cluster in unexpected corners.\nThey find shortcuts you never imagined.\n\nYour systems have the same hidden choreography:\n→ Where do informal paths cross formal structures?\n→ What unofficial shortcuts have emerged?\n→ Which spaces invite lingering?\n→ What doors do people prop open?\n\nThe real architecture emerges from use, not intention. Follow the footprints.",
+    "theme": "Architecture",
+    "tag": ""
+  },
+  {
+    "title": "Adaptive Reuse: Love Letter to Old Buildings",
+    "prompt": "Dear Industrial Warehouse,\nYour vast windows once illuminated factory floors.\nNow they light artists' studios.\nYour steel beams that bore such weight\nNow frame new stories.\n\nEvery challenge is an abandoned building waiting for reinvention:\n- What hidden potential lies dormant?\n- Which constraints could become character?\n- What ghosts should be preserved?\n- What foundations can be trusted?\n\nThe most sustainable building is the one already standing.\nThe most elegant solution often lives within the existing structure.\nListen to what it wants to become.",
+    "theme": "Architecture",
+    "tag": ""
+  },
+  {
+    "title": "Transparency's Edge",
+    "prompt": "Clear\n    Translucent\n        Frosted\n            Obscured\n\nLike a thoughtful glazing design, modulate the visibility of your system. Not everything needs to be exposed. Not everything should be hidden.\n\nPlay with layers:\n- What should be immediately apparent?\n- What should reveal itself slowly?\n- What mysteries should remain?\n- Where might a blur be more honest than clarity?\n\nThe art lies in knowing what to show, what to suggest, and what to conceal.",
+    "theme": "Architecture",
+    "tag": ""
+  },
+  {
+    "title": "Redundant Beauty: Cathedral Lessons",
+    "prompt": "A Gothic cathedral doesn't trust a single solution.\nFlying buttresses layer upon flying buttresses.\nMultiple paths carry the weight.\nFailure of one doesn't mean collapse of all.\n\nIn this complexity lies grace:\n* Where are your single points of failure?\n* What beauty could emerge from overlapping systems?\n* How might backup structures become features, not compromises?\n\nLearn from the medieval masters - sometimes the support becomes the spectacle.",
+    "theme": "Architecture",
+    "tag": ""
+  },
+  {
+    "title": "Scale & Intimacy: A Conversation",
+    "prompt": "GRAND: \"I want to inspire awe!\"\nintimate: \"but will they feel at home?\"\nGRAND: \"They should look up in wonder!\"\nintimate: \"but can they reach the doorknob?\"\n\nYour challenge needs both voices:\n- Moments that expand perspective\n- Details that invite touch\n- Spaces that humble\n- Corners that comfort\n\nLike a cathedral with well-worn pews, let the monumental and the human touch.",
+    "theme": "Architecture",
+    "tag": ""
+  },
+  {
+    "title": "Transitional Spaces: Threshold Theory",
+    "prompt": "Neither here\n    Nor there\n        But becoming\n\nThe Japanese call it ma (間), the Moroccans call it the courtyard, the Europeans their porticos. These in-between spaces - not quite inside, not quite outside - hold the magic.\n\nStudy your thresholds:\n* Where do states change?\n* What mediates between extremes?\n* How long should transition take?\n* What rituals mark passage?\n\nThe space between spaces is where transformation happens.\nRemember: Even doors can be rooms.",
+    "theme": "Architecture",
+    "tag": ""
+  },
+  {
+    "title": "Cartography of Mist",
+    "prompt": "Map the unmappable:\n• The space between decisions\n• The texture of maybe\n• The topology of almost\n• The geography of not-yet\n\nDraw borders around uncertainty\nPlot coordinates of contradiction\nNavigate by the compass of confusion\n\nRemember: fog is just\nclouds that wanted\nto walk among us",
+    "theme": "Experimental",
+    "tag": ""
+  },
+  {
+    "title": "Negative Capability Meditation",
+    "prompt": "::::silence::::\n::::doubt::::\n::::mystery::::\n\nResist the urge to:\n- conclude\n- define\n- understand\n\nInstead:\nFloat in uncertainty\nBreathe in paradox\nDance with ambiguity\n\nLet (not)knowing be enough",
+    "theme": "Experimental",
+    "tag": ""
   }
-] 
+]
