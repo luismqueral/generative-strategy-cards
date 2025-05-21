@@ -8,7 +8,7 @@ import { StrategyFilter } from "@/components/strategy-filter";
 export default function Home() {
   // Get the strategy cards data
   const strategyCards = useMemo(() => getStrategyCards(), []);
-  const [filterText, setFilterText] = useState("");
+  const [_, setFilterText] = useState("");
   const [filterCategory, setFilterCategory] = useState<string>('');
 
   // Extract unique themes and tags for filtering
