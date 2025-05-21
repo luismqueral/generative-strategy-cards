@@ -71,7 +71,7 @@ export function StrategyFilter({ onFilterChange, onCategoryChange, uniqueThemes,
   };
 
   return (
-    <div className="mb-8">
+    <div className="mb-8 w-full">
       {/* Search input div was removed in a previous step */}
       <div className="flex flex-wrap gap-2 mb-4 w-full justify-center">
         {categories.map((category) => {
