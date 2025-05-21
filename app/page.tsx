@@ -8,7 +8,6 @@ import { StrategyFilter } from "@/components/strategy-filter";
 export default function Home() {
   // Get the strategy cards data
   const strategyCards = useMemo(() => getStrategyCards(), []);
-  const [_, setFilterText] = useState("");
   const [filterCategory, setFilterCategory] = useState<string>('');
 
   // Extract unique themes and tags for filtering
@@ -20,7 +19,7 @@ export default function Home() {
     Array.from(new Set(strategyCards.map(card => card.tag))).sort(),
   [strategyCards]);
 
-  // Filter the cards based on the filter text and category
+  // Filter the cards based on the category
   const filteredCards = (() => {
     // First filter out any cards without a theme (tag)
     const cardsWithTheme = strategyCards.filter(card => card.theme);
@@ -32,6 +31,10 @@ export default function Home() {
     return cardsWithTheme.filter(card => card.theme.toLowerCase() === filterCategory.toLowerCase());
   })();
 
+  const handleFilterChange = () => {
+    // Empty function since we no longer use filterText
+  };
+
   return (
     <div className="flex min-h-screen flex-col">
       <header className="py-8">
@@ -42,7 +45,7 @@ export default function Home() {
         </section>
         <section className="container mx-auto px-4 max-w-3xl mb-2">
           <StrategyFilter 
-            onFilterChange={setFilterText}
+            onFilterChange={handleFilterChange}
             onCategoryChange={setFilterCategory}
             uniqueThemes={uniqueThemes}
             uniqueSources={uniqueTags}
