@@ -18,6 +18,22 @@ export function StrategyFilter({ onFilterChange, onCategoryChange, uniqueThemes,
 
   const categories = ['Featured', 'Psychology', 'Science', 'Philosophy', 'History', 'Art', 'Nature', 'Politics', 'Religion', 'Architecture', 'Chaotic', 'Experimental', 'Other'];
 
+  const categoryEmojis: Record<string, string> = {
+    Featured: '⭐',
+    Psychology: '🧠',
+    Science: '🔬',
+    Philosophy: '💭',
+    History: '📜',
+    Art: '🎨',
+    Nature: '🌿',
+    Politics: '🗳️',
+    Religion: '🙏',
+    Architecture: '🏛️',
+    Chaotic: '🌀',
+    Experimental: '🧪',
+    Other: '✨'
+  };
+
   const categoryColors: Record<string, string> = {
     Featured: '#f5f5f5', // Light gray
     Psychology: '#f0e68c', // Light khaki
@@ -77,30 +93,32 @@ export function StrategyFilter({ onFilterChange, onCategoryChange, uniqueThemes,
       {/* Search input div was removed in a previous step */}
       <div className="flex flex-wrap gap-2 mb-4 w-full justify-center">
         {categories.map((category) => {
+          const isActive = activeCategory === category;
           return (
             <button
               key={category}
               onClick={() => handleCategoryClick(category)}
-              className={`px-6 py-3 text-lg rounded-lg cursor-pointer`}
+              className={`px-6 py-3 text-lg rounded-lg cursor-pointer flex items-center gap-2`}
               style={{
-                backgroundColor: activeCategory === category ? categoryDarkColors[category] : 'rgba(0, 0, 0, 0.05)',
-                color: activeCategory === category ? '#fff' : '#000',
+                backgroundColor: isActive ? categoryDarkColors[category] : 'rgba(0, 0, 0, 0.05)',
+                color: isActive ? '#fff' : '#000',
                 transition: 'all 0.1s ease-in-out'
               }}
               onMouseEnter={(e) => {
-                if (activeCategory !== category) {
+                if (!isActive) {
                   e.currentTarget.style.backgroundColor = 'rgba(0, 0, 0, 0.2)';
                   e.currentTarget.style.color = '#000';
                 }
               }}
               onMouseLeave={(e) => {
-                if (activeCategory !== category) {
+                if (!isActive) {
                   e.currentTarget.style.backgroundColor = 'rgba(0, 0, 0, 0.05)';
                   e.currentTarget.style.color = '#000';
                 }
               }}
             >
-              {category}
+              {isActive && <span>{categoryEmojis[category]}</span>}
+              <span style={{ fontWeight: isActive ? 'bold' : 'normal' }}>{category}</span>
             </button>
           );
         })}
