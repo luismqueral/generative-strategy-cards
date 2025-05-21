@@ -13,12 +13,13 @@ interface FilterProps {
 
 export function StrategyFilter({ onFilterChange, onCategoryChange, uniqueThemes, uniqueSources }: FilterProps) {
   // filter state and its handlers are no longer needed as search input is removed.
-  const [activeCategory, setActiveCategory] = useState<string>('');
+  const [activeCategory, setActiveCategory] = useState<string>('Featured');
   const [activeTag, setActiveTag] = useState<string | null>(null);
 
-  const categories = ['Psychology', 'Science', 'Philosophy', 'History', 'Art', 'Nature', 'Experimental', 'Politics', 'Religion', 'Architecture', 'Other'];
+  const categories = ['Featured', 'Psychology', 'Science', 'Philosophy', 'History', 'Art', 'Nature', 'Experimental', 'Politics', 'Religion', 'Architecture', 'Other'];
 
   const categoryColors: Record<string, string> = {
+    Featured: '#f5f5f5', // Light gray
     Psychology: '#f0e68c', // Light khaki
     Science: '#add8e6', // Light blue
     Philosophy: '#dda0dd', // Plum
@@ -33,6 +34,7 @@ export function StrategyFilter({ onFilterChange, onCategoryChange, uniqueThemes,
   };
 
   const categoryDarkColors: Record<string, string> = {
+    Featured: '#6e6e6e', // Dark gray
     Psychology: '#9B7D0A', // Dark yellow/gold
     Science: '#1A5D8F', // Dark blue
     Philosophy: '#8A2BE2', // Deep purple

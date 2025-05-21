@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { useState, useMemo, useEffect } from "react";
 import { getStrategyCards } from "@/lib/data/strategy-cards";
 import { StrategyCard } from "@/components/strategy-card";
 import { StrategyFilter } from "@/components/strategy-filter";
@@ -8,7 +8,12 @@ import { StrategyFilter } from "@/components/strategy-filter";
 export default function Home() {
   // Get the strategy cards data
   const strategyCards = useMemo(() => getStrategyCards(), []);
-  const [filterCategory, setFilterCategory] = useState<string>('');
+  const [filterCategory, setFilterCategory] = useState<string>('Featured');
+
+  // Set initial background color for Featured category
+  useEffect(() => {
+    document.body.style.backgroundColor = '#f5f5f5'; // Light gray
+  }, []);
 
   // Extract unique themes and tags for filtering
   const uniqueThemes = useMemo(() => 
@@ -23,6 +28,32 @@ export default function Home() {
   const filteredCards = (() => {
     // First filter out any cards without a theme (tag)
     const cardsWithTheme = strategyCards.filter(card => card.theme);
+    
+    // If "Featured" category is selected, show a curated selection
+    if (filterCategory === 'Featured') {
+      // Create an array to hold featured cards from different categories
+      const featuredCards: typeof cardsWithTheme = [];
+      const categoriesToFeature = ["Psychology", "Science", "Philosophy", "History", "Art", "Nature"];
+      
+      // Get 1-2 cards from each featured category
+      for (const category of categoriesToFeature) {
+        const categoryCards = cardsWithTheme.filter(card => card.theme === category);
+        if (categoryCards.length > 0) {
+          // Take up to 2 cards from this category
+          featuredCards.push(...categoryCards.slice(0, 1));
+        }
+      }
+      
+      // If we have less than 8 cards, add more from any category
+      if (featuredCards.length < 8) {
+        const remainingCards = cardsWithTheme
+          .filter(card => !featuredCards.includes(card))
+          .slice(0, 8 - featuredCards.length);
+        featuredCards.push(...remainingCards);
+      }
+      
+      return featuredCards;
+    }
     
     if (!filterCategory) {
         return cardsWithTheme;
