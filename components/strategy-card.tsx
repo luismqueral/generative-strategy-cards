@@ -64,7 +64,7 @@ export function StrategyCard({ card }: StrategyCardProps) {
       setTimeout(() => {
         setIsCopied(false);
       }, 2000);
-    } catch (err) {
+    } catch (_) {
       toast.error("Failed to copy to clipboard");
     }
   };

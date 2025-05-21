@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useMemo } from "react";
-import { getStrategyCards, StrategyCard as StrategyCardType } from "@/lib/data/strategy-cards";
+import { getStrategyCards } from "@/lib/data/strategy-cards";
 import { StrategyCard } from "@/components/strategy-card";
 import { StrategyFilter } from "@/components/strategy-filter";
 

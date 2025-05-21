@@ -46,22 +46,6 @@ export function StrategyFilter({ onFilterChange, onCategoryChange, uniqueThemes,
     Other: '#A0A0A0' // Medium grey
   };
 
-  const getDarkerColor = (hex: string) => {
-    // Convert hex to RGB
-    let r = parseInt(hex.slice(1, 3), 16);
-    let g = parseInt(hex.slice(3, 5), 16);
-    let b = parseInt(hex.slice(5, 7), 16);
-    
-    // Darken the color
-    const darkenFactor = 0.5; // Darken by 50%
-    r = Math.floor(r * darkenFactor);
-    g = Math.floor(g * darkenFactor);
-    b = Math.floor(b * darkenFactor);
-    
-    // Convert back to hex
-    return `#${r.toString(16).padStart(2, '0')}${g.toString(16).padStart(2, '0')}${b.toString(16).padStart(2, '0')}`;
-  };
-
   const handleCategoryClick = (category: string) => {
     setActiveCategory(category);
     onCategoryChange(category);
