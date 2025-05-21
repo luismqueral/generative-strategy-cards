@@ -16,7 +16,7 @@ export function StrategyFilter({ onFilterChange, onCategoryChange, uniqueThemes,
   const [activeCategory, setActiveCategory] = useState<string>('Featured');
   const [activeTag, setActiveTag] = useState<string | null>(null);
 
-  const categories = ['Featured', 'Psychology', 'Science', 'Philosophy', 'History', 'Art', 'Nature', 'Experimental', 'Politics', 'Religion', 'Architecture', 'Other'];
+  const categories = ['Featured', 'Psychology', 'Science', 'Philosophy', 'History', 'Art', 'Nature', 'Experimental', 'Politics', 'Religion', 'Architecture', 'Chaotic', 'Other'];
 
   const categoryColors: Record<string, string> = {
     Featured: '#f5f5f5', // Light gray
@@ -30,6 +30,7 @@ export function StrategyFilter({ onFilterChange, onCategoryChange, uniqueThemes,
     Politics: '#ffcccb', // Light red
     Religion: '#d3d3d3', // Light grey
     Architecture: '#ffe4b5', // Moccasin
+    Chaotic: '#ff9966', // Peach/orange
     Other: '#f5f5dc' // Beige
   };
 
@@ -45,6 +46,7 @@ export function StrategyFilter({ onFilterChange, onCategoryChange, uniqueThemes,
     Politics: '#B22222', // Firebrick red
     Religion: '#696969', // Dim grey
     Architecture: '#CD8500', // Dark goldenrod
+    Chaotic: '#cc6633', // Darker orange/rust
     Other: '#A0A0A0' // Medium grey
   };
 

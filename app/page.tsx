@@ -33,7 +33,7 @@ export default function Home() {
     if (filterCategory === 'Featured') {
       // Create an array to hold featured cards from different categories
       const featuredCards: typeof cardsWithTheme = [];
-      const categoriesToFeature = ["Psychology", "Science", "Philosophy", "History", "Art", "Nature"];
+      const categoriesToFeature = ["Psychology", "Science", "Philosophy", "History", "Art", "Nature", "Chaotic"];
       
       // Get 1-2 cards from each featured category
       for (const category of categoriesToFeature) {
