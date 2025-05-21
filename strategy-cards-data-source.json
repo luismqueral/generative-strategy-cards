@@ -318,12 +318,6 @@
     "tag": ""
   },
   {
-    "title": "Practice Critical Race Theory Analysis",
-    "prompt": "Apply critical race theory: examine how racialized power structures might operate, even when not explicitly about race.\n\nWhat seemingly neutral systems might perpetuate historical inequities?\n\nDescribe how this legal theory could reveal structural biases embedded within apparently objective frameworks. Who benefits from the current structure?",
-    "theme": "Politics",
-    "tag": ""
-  },
-  {
     "title": "Embody Quantum Entanglement",
     "prompt": "Identify elements that might be fundamentally entangled: affecting one instantly influences another, regardless of distance or connection.\nMap these non-local relationships and their implications.\n\nDescribe how quantum thinking might reveal connections that classical logic cannot accommodate. What are the 'spooky actions at a distance' here?",
     "theme": "Science",
@@ -717,6 +711,54 @@
     "title": "Implement Tactical Urbanism / \"Pop-Up\" Solutions",
     "prompt": "Tactical urbanism involves low-cost, temporary changes to the built environment (e.g., pop-up parks, temporary bike lanes) to test ideas, gather feedback, and demonstrate potential for longer-term change.\n\nWhat aspect of your situation could benefit from a 'tactical urbanism' approach?\n*   Instead of a large-scale, permanent overhaul, what small, temporary, and low-risk 'pop-up' solution or experiment could you implement quickly?\n*   How can this pilot project test assumptions, gather real-world data, and build support for a more significant change?\n\nDesign a quick, cheap, and reversible intervention to learn and iterate.",
     "theme": "Architecture",
+    "tag": ""
+  },
+  {
+    "title": "Apply Zen Koan Logic",
+    "prompt": "Consider your challenge through the lens of Zen Buddhism's koans—paradoxical statements or questions intended to provoke enlightenment by transcending rational thought.\n\nLike the koan \"What is the sound of one hand clapping?\" create a deliberately impossible or paradoxical question specific to your situation.\n\nThen, rather than trying to solve it logically, allow the mind to exhaust itself until insight emerges from beyond intellectual reasoning. What wisdom arises from the space beyond understanding?",
+    "theme": "Religion",
+    "tag": ""
+  },
+  {
+    "title": "Practice Ignatian Discernment",
+    "prompt": "Apply the Jesuit spiritual practice of discernment developed by St. Ignatius of Loyola: the deliberate process of distinguishing divine guidance from mundane thoughts and impulses.\n\n*   First, clearly articulate the decision or path you're considering\n*   Next, observe your inner movements: what brings consolation (peace, love, connection) versus desolation (fear, confusion, disconnection)?\n*   Finally, reflect on where these feelings seem to lead—toward or away from your deeper values and purpose\n\nWhat insight emerges when you distinguish between immediate emotional reactions and deeper spiritual indicators?",
+    "theme": "Religion",
+    "tag": ""
+  },
+  {
+    "title": "Invoke the Talmudic Pilpul Method",
+    "prompt": "Approach this challenge using the Talmudic method of Pilpul—sharp analysis and dialectical reasoning used in Jewish scholarship to reconcile seemingly contradictory positions.\n\n*   Identify the most contradictory or conflicting elements in your situation\n*   Rather than choosing one position over another, develop sophisticated arguments for BOTH sides\n*   Look for a hidden reconciliation that acknowledges the partial truth of each position\n\nDetail how this dialectical approach of argumentation and counter-argumentation might lead to a more nuanced understanding beyond simple opposition.",
+    "theme": "Religion",
+    "tag": ""
+  },
+  {
+    "title": "Apply Bhagavad Gita's Three Paths",
+    "prompt": "Consider your situation through the three spiritual paths outlined in Hinduism's Bhagavad Gita:\n\n*   Karma Yoga (the path of selfless action): How might you approach this with duty and right action without attachment to results?\n*   Jnana Yoga (the path of knowledge): What deeper understanding or wisdom might transform your perception of the situation?\n*   Bhakti Yoga (the path of devotion): How might approaching this with complete devotion, love, or surrender change your relationship to it?\n\nWhich path resonates most strongly? How might combining elements from each path offer a more complete approach to your challenge?",
+    "theme": "Religion",
+    "tag": ""
+  },
+  {
+    "title": "Enter the Desert",
+    "prompt": "Many religious traditions value time in the desert or wilderness—space for retreat, confrontation with essential truths, and radical simplification.\n\nWhat would it mean to approach this situation through 'desert wisdom'?\n*   What excess could be stripped away to reveal the essential?\n*   What temptations or attachments might you need to confront?\n*   What clarity might emerge through deliberate austerity and focused attention?\n\nDescribe how embodying this desert approach—temporarily removing yourself from abundance, convenience, and distraction—might transform your relationship to the challenge.",
+    "theme": "Religion",
+    "tag": ""
+  },
+  {
+    "title": "Practice Sufi Whirling",
+    "prompt": "Draw on the practice of Sufi dervishes who engage in meditative whirling—spinning in circles as a form of dhikr (remembrance of God) to reach religious ecstasy and transcend ego.\n\nHow might you metaphorically 'whirl' in your current situation?\n*   What would it mean to abandon conventional positioning and perspective?\n*   How might deliberate disorientation lead to a higher perspective?\n*   What anchoring center point would you maintain focus on while everything else becomes a blur?\n\nDescribe how this intentional rotation of perspective might reveal insights obscured by static viewpoints.",
+    "theme": "Religion",
+    "tag": ""
+  },
+  {
+    "title": "Apply Taoist Wu-Wei",
+    "prompt": "Consider your situation through the Taoist concept of Wu-Wei (无为)—'non-action' or 'effortless action'—an alignment with the natural flow of the Tao that achieves without forcing.\n\n*   Where might you be struggling against the natural current of events?\n*   How could you align your actions with existing momentum rather than opposing it?\n*   What might emerge if you allow things to unfold according to their inherent nature?\n\nDescribe how embodying 'action through non-action' might paradoxically lead to effective outcomes with minimal resistance.",
+    "theme": "Religion",
+    "tag": ""
+  },
+  {
+    "title": "Consult the I Ching",
+    "prompt": "Approach your situation as if consulting the I Ching (Book of Changes), the ancient Chinese divination text. Rather than actually casting hexagrams, mentally engage with its core philosophy of change and balance.\n\n*   What opposing yet complementary forces (yin/yang) are at work in this situation?\n*   What is in process of transformation from one state to another?\n*   What unchanging principles might provide guidance amid change?\n\nDescribe how viewing this situation as a specific moment within larger cycles of change might reveal its true nature and suggest a harmonious path forward.",
+    "theme": "Religion",
     "tag": ""
   }
 ]
