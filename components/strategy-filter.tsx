@@ -50,22 +50,6 @@ export function StrategyFilter({ onFilterChange, onCategoryChange, uniqueThemes,
     Other: '#fafafa' // Lighter beige
   };
 
-  const categoryDarkColors: Record<string, string> = {
-    Featured: '#6e6e6e', // Dark gray
-    Psychology: '#9B7D0A', // Dark yellow/gold
-    Science: '#1A5D8F', // Dark blue
-    Philosophy: '#8A2BE2', // Deep purple
-    History: '#DC143C', // Crimson
-    Art: '#228B22', // Forest green
-    Nature: '#008080', // Teal
-    Experimental: '#CD853F', // Peru (dark orange/brown)
-    Politics: '#B22222', // Firebrick red
-    Religion: '#696969', // Dim grey
-    Architecture: '#CD8500', // Dark goldenrod
-    Chaotic: '#cc6633', // Darker orange/rust
-    Other: '#A0A0A0' // Medium grey
-  };
-
   const handleCategoryClick = (category: string) => {
     setActiveCategory(category);
     onCategoryChange(category);
@@ -100,8 +84,8 @@ export function StrategyFilter({ onFilterChange, onCategoryChange, uniqueThemes,
               onClick={() => handleCategoryClick(category)}
               className={`px-6 py-3 text-lg rounded-lg cursor-pointer flex items-center gap-2`}
               style={{
-                backgroundColor: isActive ? categoryDarkColors[category] : 'rgba(0, 0, 0, 0.03)',
-                color: isActive ? '#fff' : '#000',
+                backgroundColor: isActive ? categoryColors[category] : 'rgba(0, 0, 0, 0.03)',
+                color: isActive ? '#000' : '#000',
                 transition: 'all 0.1s ease-in-out'
               }}
               onMouseEnter={(e) => {
