@@ -457,7 +457,7 @@
   },
   {
     "title": "Flip the Morph",
-    "prompt": "What aspect of your situation is like a 'Morph' creature—an unknown quantity, hidden potential, or unrevealed truth currently face down?\n\nWhat would it 'cost' (effort, investigation, risk) to 'flip it face up'?\nWhat unexpected ability, advantage, or critical information might be revealed?\n\nHow could that surprise turn the tide or fundamentally alter your understanding of the 'board state'? Uncover the mystery.",
+    "prompt": "What aspect of this situation is like a 'Morph' creature—an unknown quantity, hidden potential, or unrevealed truth currently face down?\n\nWhat would it 'cost' (effort, investigation, risk) to 'flip it face up'?\nWhat unexpected ability, advantage, or critical information might be revealed?\n\nHow could that surprise turn the tide or fundamentally alter your understanding of the 'board state'? Uncover the mystery.",
     "theme": "Other",
     "tag": ""
   },
@@ -505,7 +505,7 @@
   },
   {
     "title": "Navigate by Constellation",
-    "prompt": "Imagine the key elements, challenges, and goals of your situation are stars in the night sky.\n\nInstead of focusing on a single 'North Star,' identify a constellation of 3-5 'stars' that, when viewed together, create a meaningful pattern or offer a guiding narrative.\n\n*   What is this constellation? Name it.\n*   How do the relationships *between* these points guide your understanding or next steps, rather than any single point in isolation?\n*   How does this pattern help you navigate complexity or uncertainty?\n\nMap your constellation and interpret its collective wisdom.",
+    "prompt": "Imagine the key elements, challenges, and goals of this situation are stars in the night sky.\n\nInstead of focusing on a single 'North Star,' identify a constellation of 3-5 'stars' that, when viewed together, create a meaningful pattern or offer a guiding narrative.\n\n*   What is this constellation? Name it.\n*   How do the relationships *between* these points guide your understanding or next steps, rather than any single point in isolation?\n*   How does this pattern help you navigate complexity or uncertainty?\n\nMap your constellation and interpret its collective wisdom.",
     "theme": "Philosophy",
     "tag": ""
   },
@@ -553,7 +553,7 @@
   },
   {
     "title": "Adopt the Mycorrhizal Model",
-    "prompt": "Mycorrhizal fungi form symbiotic relationships with plant roots, exchanging nutrients and information, enhancing resilience for both. What entities in or around your situation could form mutually beneficial, symbiotic partnerships?\n\nIdentify potential partners (individuals, groups, other projects).\n\n*   What unique 'nutrients' (resources, skills, perspectives) could each offer the other?\n*   How could this exchange create a stronger, more resilient 'ecosystem' for all involved?\n\nDesign a strategy for fostering these mycorrhizal connections.",
+    "prompt": "Mycorrhizal fungi form symbiotic relationships with plant roots, exchanging nutrients and information, enhancing resilience for both. What entities in or around this situation could form mutually beneficial, symbiotic partnerships?\n\nIdentify potential partners (individuals, groups, other projects).\n\n*   What unique 'nutrients' (resources, skills, perspectives) could each offer the other?\n*   How could this exchange create a stronger, more resilient 'ecosystem' for all involved?\n\nDesign a strategy for fostering these mycorrhizal connections.",
     "theme": "Nature",
     "tag": ""
   },
@@ -577,7 +577,7 @@
   },
   {
     "title": "Map the Adjacent Possible",
-    "prompt": "The 'adjacent possible' (a concept from Stuart Kauffman) refers to the set of all things (ideas, technologies, solutions) that are one step away from the current state. Innovation often happens by exploring these nearby, accessible next steps.\n\nIdentify the current, stable state of your situation.\n\n*   What are all the 'first-order' changes or combinations that are immediately feasible?\n*   Which of these adjacent possibilities, if explored, might open up an entirely new set of adjacent possibilities in turn?\n\nFocus not on a distant goal, but on strategically exploring the richest paths within the adjacent possible. What's the most promising next 'door' to open?",
+    "prompt": "The 'adjacent possible' (a concept from Stuart Kauffman) refers to the set of all things (ideas, technologies, solutions) that are one step away from the current state. Innovation often happens by exploring these nearby, accessible next steps.\n\nIdentify the current, stable state of this situation.\n\n*   What are all the 'first-order' changes or combinations that are immediately feasible?\n*   Which of these adjacent possibilities, if explored, might open up an entirely new set of adjacent possibilities in turn?\n\nFocus not on a distant goal, but on strategically exploring the richest paths within the adjacent possible. What's the most promising next 'door' to open?",
     "theme": "Experimental",
     "tag": ""
   },
@@ -601,7 +601,7 @@
   },
   {
     "title": "Consider the Half-Life",
-    "prompt": "In physics, half-life is the time required for a quantity to reduce to half of its initial value. Apply this concept metaphorically to key elements of your situation.\n\n*   What is the 'half-life' of current assumptions? How long until they are likely outdated?\n*   What is the 'half-life' of the current solution's relevance or a team's enthusiasm?\n*   What is the 'half-life' of a critical resource?\n\nThinking in terms of decay and renewal, how does this perspective influence planning, resource allocation, or the need for adaptability?",
+    "prompt": "In physics, half-life is the time required for a quantity to reduce to half of its initial value. Apply this concept metaphorically to key elements of this situation.\n\n*   What is the 'half-life' of current assumptions? How long until they are likely outdated?\n*   What is the 'half-life' of the current solution's relevance or a team's enthusiasm?\n*   What is the 'half-life' of a critical resource?\n\nThinking in terms of decay and renewal, how does this perspective influence planning, resource allocation, or the need for adaptability?",
     "theme": "Science",
     "tag": ""
   },
@@ -667,7 +667,7 @@
   },
   {
     "title": "Observe Microclimates",
-    "prompt": "Even within a small garden, microclimates exist – small areas where conditions (sun, shade, moisture, wind) differ from the general environment. In your situation, what 'microclimates' exist within the larger project, team, or market?\n\n*   Are there pockets of high performance, low morale, specific expertise, or unique resistance?\n*   How do these localized conditions affect what can 'grow' there or what strategies are most effective in those specific zones?\n\nIdentify these microclimates and tailor your approach to their unique characteristics, rather than applying a one-size-fits-all strategy.",
+    "prompt": "Even within a small garden, microclimates exist – small areas where conditions (sun, shade, moisture, wind) differ from the general environment. In this situation, what 'microclimates' exist within the larger project, team, or market?\n\n*   Are there pockets of high performance, low morale, specific expertise, or unique resistance?\n*   How do these localized conditions affect what can 'grow' there or what strategies are most effective in those specific zones?\n\nIdentify these microclimates and tailor your approach to their unique characteristics, rather than applying a one-size-fits-all strategy.",
     "theme": "Nature",
     "tag": ""
   },
@@ -697,7 +697,7 @@
   },
   {
     "title": "Incorporate \"Soft Edges\" & Permeable Boundaries",
-    "prompt": "In architecture and urban design, 'soft edges' (e.g., landscaped setbacks, inviting entryways, permeable fences) create a more welcoming and integrated transition between public and private spaces, or between different zones, encouraging interaction and reducing abruptness.\n\nWhere in your situation are there 'hard edges'—abrupt transitions, impermeable barriers between teams, ideas, or stages of a process—that hinder flow or collaboration?\n\n*   How can you introduce 'soft edges' to create more gradual, inviting, and permeable boundaries?\n*   What would a 'landscaped' or 'semi-permeable' transition look like in this context?\n\nDesign for smoother integrations and more porous connections.",
+    "prompt": "In architecture and urban design, 'soft edges' (e.g., landscaped setbacks, inviting entryways, permeable fences) create a more welcoming and integrated transition between public and private spaces, or between different zones, encouraging interaction and reducing abruptness.\n\nWhere in this situation are there 'hard edges'—abrupt transitions, impermeable barriers between teams, ideas, or stages of a process—that hinder flow or collaboration?\n\n*   How can you introduce 'soft edges' to create more gradual, inviting, and permeable boundaries?\n*   What would a 'landscaped' or 'semi-permeable' transition look like in this context?\n\nDesign for smoother integrations and more porous connections.",
     "theme": "Architecture",
     "tag": ""
   },
@@ -715,13 +715,13 @@
   },
   {
     "title": "Implement Tactical Urbanism / \"Pop-Up\" Solutions",
-    "prompt": "Tactical urbanism involves low-cost, temporary changes to the built environment (e.g., pop-up parks, temporary bike lanes) to test ideas, gather feedback, and demonstrate potential for longer-term change.\n\nWhat aspect of your situation could benefit from a 'tactical urbanism' approach?\n*   Instead of a large-scale, permanent overhaul, what small, temporary, and low-risk 'pop-up' solution or experiment could you implement quickly?\n*   How can this pilot project test assumptions, gather real-world data, and build support for a more significant change?\n\nDesign a quick, cheap, and reversible intervention to learn and iterate.",
+    "prompt": "Tactical urbanism involves low-cost, temporary changes to the built environment (e.g., pop-up parks, temporary bike lanes) to test ideas, gather feedback, and demonstrate potential for longer-term change.\n\nWhat aspect of this situation could benefit from a 'tactical urbanism' approach?\n*   Instead of a large-scale, permanent overhaul, what small, temporary, and low-risk 'pop-up' solution or experiment could you implement quickly?\n*   How can this pilot project test assumptions, gather real-world data, and build support for a more significant change?\n\nDesign a quick, cheap, and reversible intervention to learn and iterate.",
     "theme": "Architecture",
     "tag": ""
   },
   {
     "title": "Apply Zen Koan Logic",
-    "prompt": "Consider your challenge through the lens of Zen Buddhism's koans—paradoxical statements or questions intended to provoke enlightenment by transcending rational thought.\n\nLike the koan \"What is the sound of one hand clapping?\" create a deliberately impossible or paradoxical question specific to your situation.\n\nThen, rather than trying to solve it logically, allow the mind to exhaust itself until insight emerges from beyond intellectual reasoning. What wisdom arises from the space beyond understanding?",
+    "prompt": "Consider your challenge through the lens of Zen Buddhism's koans—paradoxical statements or questions intended to provoke enlightenment by transcending rational thought.\n\nLike the koan \"What is the sound of one hand clapping?\" create a deliberately impossible or paradoxical question specific to this situation.\n\nThen, rather than trying to solve it logically, allow the mind to exhaust itself until insight emerges from beyond intellectual reasoning. What wisdom arises from the space beyond understanding?",
     "theme": "Religion",
     "tag": ""
   },
@@ -733,13 +733,13 @@
   },
   {
     "title": "Invoke the Talmudic Pilpul Method",
-    "prompt": "Approach this challenge using the Talmudic method of Pilpul—sharp analysis and dialectical reasoning used in Jewish scholarship to reconcile seemingly contradictory positions.\n\n*   Identify the most contradictory or conflicting elements in your situation\n*   Rather than choosing one position over another, develop sophisticated arguments for BOTH sides\n*   Look for a hidden reconciliation that acknowledges the partial truth of each position\n\nDetail how this dialectical approach of argumentation and counter-argumentation might lead to a more nuanced understanding beyond simple opposition.",
+    "prompt": "Approach this challenge using the Talmudic method of Pilpul—sharp analysis and dialectical reasoning used in Jewish scholarship to reconcile seemingly contradictory positions.\n\n*   Identify the most contradictory or conflicting elements in this situation\n*   Rather than choosing one position over another, develop sophisticated arguments for BOTH sides\n*   Look for a hidden reconciliation that acknowledges the partial truth of each position\n\nDetail how this dialectical approach of argumentation and counter-argumentation might lead to a more nuanced understanding beyond simple opposition.",
     "theme": "Religion",
     "tag": ""
   },
   {
     "title": "Apply Bhagavad Gita's Three Paths",
-    "prompt": "Consider your situation through the three spiritual paths outlined in Hinduism's Bhagavad Gita:\n\n*   Karma Yoga (the path of selfless action): How might you approach this with duty and right action without attachment to results?\n*   Jnana Yoga (the path of knowledge): What deeper understanding or wisdom might transform your perception of the situation?\n*   Bhakti Yoga (the path of devotion): How might approaching this with complete devotion, love, or surrender change your relationship to it?\n\nWhich path resonates most strongly? How might combining elements from each path offer a more complete approach to your challenge?",
+    "prompt": "Consider this situation through the three spiritual paths outlined in Hinduism's Bhagavad Gita:\n\n*   Karma Yoga (the path of selfless action): How might you approach this with duty and right action without attachment to results?\n*   Jnana Yoga (the path of knowledge): What deeper understanding or wisdom might transform your perception of the situation?\n*   Bhakti Yoga (the path of devotion): How might approaching this with complete devotion, love, or surrender change your relationship to it?\n\nWhich path resonates most strongly? How might combining elements from each path offer a more complete approach to your challenge?",
     "theme": "Religion",
     "tag": ""
   },
@@ -757,19 +757,19 @@
   },
   {
     "title": "Apply Taoist Wu-Wei",
-    "prompt": "Consider your situation through the Taoist concept of Wu-Wei (无为)—'non-action' or 'effortless action'—an alignment with the natural flow of the Tao that achieves without forcing.\n\n*   Where might you be struggling against the natural current of events?\n*   How could you align your actions with existing momentum rather than opposing it?\n*   What might emerge if you allow things to unfold according to their inherent nature?\n\nDescribe how embodying 'action through non-action' might paradoxically lead to effective outcomes with minimal resistance.",
+    "prompt": "Consider this situation through the Taoist concept of Wu-Wei (无为)—'non-action' or 'effortless action'—an alignment with the natural flow of the Tao that achieves without forcing.\n\n*   Where might you be struggling against the natural current of events?\n*   How could you align your actions with existing momentum rather than opposing it?\n*   What might emerge if you allow things to unfold according to their inherent nature?\n\nDescribe how embodying 'action through non-action' might paradoxically lead to effective outcomes with minimal resistance.",
     "theme": "Religion",
     "tag": ""
   },
   {
     "title": "Consult the I Ching",
-    "prompt": "Approach your situation as if consulting the I Ching (Book of Changes), the ancient Chinese divination text. Rather than actually casting hexagrams, mentally engage with its core philosophy of change and balance.\n\n*   What opposing yet complementary forces (yin/yang) are at work in this situation?\n*   What is in process of transformation from one state to another?\n*   What unchanging principles might provide guidance amid change?\n\nDescribe how viewing this situation as a specific moment within larger cycles of change might reveal its true nature and suggest a harmonious path forward.",
+    "prompt": "Approach this situation as if consulting the I Ching (Book of Changes), the ancient Chinese divination text. Rather than actually casting hexagrams, mentally engage with its core philosophy of change and balance.\n\n*   What opposing yet complementary forces (yin/yang) are at work in this situation?\n*   What is in process of transformation from one state to another?\n*   What unchanging principles might provide guidance amid change?\n\nDescribe how viewing this situation as a specific moment within larger cycles of change might reveal its true nature and suggest a harmonious path forward.",
     "theme": "Religion",
     "tag": ""
   },
   {
     "title": "Apply Machiavellian Strategy",
-    "prompt": "Consider your situation through the lens of Niccolò Machiavelli's pragmatic political philosophy from 'The Prince'.\n\n*   Would it be better to be loved or feared in this context? Why?\n*   How might calculated boldness be more effective than cautious half-measures?\n*   What would it mean to be 'as cunning as a fox and as fierce as a lion'?\n\nWithout endorsing manipulation, describe how Machiavelli's strategic realism—seeing things as they are, not as they ought to be—might lead to more effective action in this situation.",
+    "prompt": "Consider this situation through the lens of Niccolò Machiavelli's pragmatic political philosophy from 'The Prince'.\n\n*   Would it be better to be loved or feared in this context? Why?\n*   How might calculated boldness be more effective than cautious half-measures?\n*   What would it mean to be 'as cunning as a fox and as fierce as a lion'?\n\nWithout endorsing manipulation, describe how Machiavelli's strategic realism—seeing things as they are, not as they ought to be—might lead to more effective action in this situation.",
     "theme": "Politics",
     "tag": ""
   },
@@ -787,7 +787,7 @@
   },
   {
     "title": "Apply Game Theory",
-    "prompt": "Analyze your situation using game theory principles from political science, examining how strategic interactions shape outcomes when decisions depend on others' choices.\n\n*   What type of 'game' is this—zero-sum, positive-sum, prisoner's dilemma, chicken, or stag hunt?\n*   What are the payoff structures for different combinations of choices?\n*   How might you alter incentives, signal commitments, or build trust to achieve better equilibrium?\n\nDetail how this mathematical approach to strategic interaction might reveal optimal strategies when dealing with rational actors pursuing their own interests.",
+    "prompt": "Analyze this situation using game theory principles from political science, examining how strategic interactions shape outcomes when decisions depend on others' choices.\n\n*   What type of 'game' is this—zero-sum, positive-sum, prisoner's dilemma, chicken, or stag hunt?\n*   What are the payoff structures for different combinations of choices?\n*   How might you alter incentives, signal commitments, or build trust to achieve better equilibrium?\n\nDetail how this mathematical approach to strategic interaction might reveal optimal strategies when dealing with rational actors pursuing their own interests.",
     "theme": "Politics",
     "tag": ""
   },
@@ -805,7 +805,7 @@
   },
   {
     "title": "Apply Churchillian Resolve",
-    "prompt": "Consider Winston Churchill's leadership during Britain's darkest hour in WWII, when he rallied a nation against overwhelming odds.\n\n*   How might unwavering resolve in the face of apparent defeat transform your situation?\n*   What would it mean to 'never surrender' your core principles or objectives?\n*   How could you articulate a compelling vision that inspires perseverance despite challenges?\n\nDescribe how this combination of stubborn determination and inspirational rhetoric might transform seemingly hopeless situations into moments of historic opportunity.",
+    "prompt": "Consider Winston Churchill's leadership during Britain's darkest hour in WWII, when he rallied a nation against overwhelming odds.\n\n*   How might unwavering resolve in the face of apparent defeat transform this situation?\n*   What would it mean to 'never surrender' your core principles or objectives?\n*   How could you articulate a compelling vision that inspires perseverance despite challenges?\n\nDescribe how this combination of stubborn determination and inspirational rhetoric might transform seemingly hopeless situations into moments of historic opportunity.",
     "theme": "Politics",
     "tag": ""
   },
@@ -817,7 +817,7 @@
   },
   {
     "title": "Apply Federalist Compromise",
-    "prompt": "Consider the American Founding Fathers' federalist approach: creating workable systems from competing interests through structural compromise.\n\n*   What fundamental tensions or competing interests exist within your situation?\n*   How might these tensions be productively balanced rather than resolved in favor of one side?\n*   What checks and balances or separation of powers could create sustainable equilibrium?\n\nDescribe how this federalist approach—designing systems that accommodate and balance legitimate differences rather than eliminating them—might create robust solutions for complex environments.",
+    "prompt": "Consider the American Founding Fathers' federalist approach: creating workable systems from competing interests through structural compromise.\n\n*   What fundamental tensions or competing interests exist within this situation?\n*   How might these tensions be productively balanced rather than resolved in favor of one side?\n*   What checks and balances or separation of powers could create sustainable equilibrium?\n\nDescribe how this federalist approach—designing systems that accommodate and balance legitimate differences rather than eliminating them—might create robust solutions for complex environments.",
     "theme": "Politics",
     "tag": ""
   },
@@ -847,43 +847,43 @@
   },
   {
     "title": "Apply the Ship of Theseus",
-    "prompt": "If every part of a ship is gradually replaced, at what point does it cease to be the same ship? Consider your situation through this ancient paradox of identity and change.\n\nWhat core elements seem essential but might actually be replaceable?\nHow might gradual transformation maintain continuity while enabling complete renewal?\nAt what point does incremental change create something entirely new?\n\nLike the paradoxical ship, how might your understanding of identity and persistence transform if you question what truly makes something 'the same'?",
+    "prompt": "If every part of a ship is gradually replaced, at what point does it cease to be the same ship? Consider this situation through this ancient paradox of identity and change.\n\nWhat core elements seem essential but might actually be replaceable?\nHow might gradual transformation maintain continuity while enabling complete renewal?\nAt what point does incremental change create something entirely new?\n\nLike the paradoxical ship, how might your understanding of identity and persistence transform if you question what truly makes something 'the same'?",
     "theme": "Philosophy",
     "tag": ""
   },
   {
     "title": "Invoke Occam's Razor",
-    "prompt": "The simplest explanation requiring the fewest assumptions is often the best. Strip your situation to its essential elements.\n\nWhat assumptions are you multiplying beyond necessity?\nWhich complexities are truly fundamental, and which are self-imposed?\nHow might radical simplification reveal a clearer path forward?\n\nConsider how removing layers of unnecessary complexity might reveal the elegant solution hiding beneath elaborate explanations.",
+    "prompt": "The simplest explanation requiring the fewest assumptions is often the best. Strip this situation to its essential elements.\n\nWhat assumptions are you multiplying beyond necessity?\nWhich complexities are truly fundamental, and which are self-imposed?\nHow might radical simplification reveal a clearer path forward?\n\nConsider how removing layers of unnecessary complexity might reveal the elegant solution hiding beneath elaborate explanations.",
     "theme": "Philosophy",
     "tag": ""
   },
   {
     "title": "Enter Plato's Cave",
-    "prompt": "Like the prisoners in Plato's allegory, we often mistake shadows for reality. Question your most fundamental assumptions about what's 'real' in your situation.\n\nWhat shadows are you mistaking for substance?\nWhich comfortable illusions might you need to abandon?\nHow could ascending to a higher perspective transform your understanding?\n\nWhat would happen if you turned away from the familiar shadows and faced the source of light?",
+    "prompt": "Like the prisoners in Plato's allegory, we often mistake shadows for reality. Question your most fundamental assumptions about what's 'real' in this situation.\n\nWhat shadows are you mistaking for substance?\nWhich comfortable illusions might you need to abandon?\nHow could ascending to a higher perspective transform your understanding?\n\nWhat would happen if you turned away from the familiar shadows and faced the source of light?",
     "theme": "Philosophy",
     "tag": ""
   },
   {
     "title": "Practice Hegelian Dialectic",
-    "prompt": "Thesis meets antithesis to create synthesis. Identify the opposing forces in your situation and seek their higher unity.\n\nWhat fundamental opposition drives your current challenge?\nHow might these contradictions contain the seeds of their own resolution?\nWhat new synthesis could emerge from embracing both sides?\n\nConsider how apparent contradictions might be resolved not by choosing one side, but by discovering their deeper unity.",
+    "prompt": "Thesis meets antithesis to create synthesis. Identify the opposing forces in this situation and seek their higher unity.\n\nWhat fundamental opposition drives your current challenge?\nHow might these contradictions contain the seeds of their own resolution?\nWhat new synthesis could emerge from embracing both sides?\n\nConsider how apparent contradictions might be resolved not by choosing one side, but by discovering their deeper unity.",
     "theme": "Philosophy",
     "tag": ""
   },
   {
     "title": "Apply Nietzschean Perspectivism",
-    "prompt": "There are no facts, only interpretations. Each perspective reveals one facet of a complex truth.\n\nWhat radically different viewpoints might illuminate your situation?\nHow might opposing interpretations all contain partial truths?\nWhat becomes possible when you abandon the search for a single 'correct' view?\n\nLike Nietzsche's perspectivism, how might embracing multiple viewpoints reveal a richer understanding than seeking a single truth?",
+    "prompt": "There are no facts, only interpretations. Each perspective reveals one facet of a complex truth.\n\nWhat radically different viewpoints might illuminate this situation?\nHow might opposing interpretations all contain partial truths?\nWhat becomes possible when you abandon the search for a single 'correct' view?\n\nLike Nietzsche's perspectivism, how might embracing multiple viewpoints reveal a richer understanding than seeking a single truth?",
     "theme": "Philosophy",
     "tag": ""
   },
   {
     "title": "Employ the Categorical Imperative",
-    "prompt": "Consider Kant's principle: Act only according to rules you could will to become universal laws.\n\nWhat if everyone in your situation acted exactly as you propose?\nWhich of your principles could truly serve as universal laws?\nHow might this lens of universality transform your choices?\n\nWhat changes when you evaluate your actions not just by their immediate effects, but by their fitness as universal principles?",
+    "prompt": "Consider Kant's principle: Act only according to rules you could will to become universal laws.\n\nWhat if everyone in this situation acted exactly as you propose?\nWhich of your principles could truly serve as universal laws?\nHow might this lens of universality transform your choices?\n\nWhat changes when you evaluate your actions not just by their immediate effects, but by their fitness as universal principles?",
     "theme": "Philosophy",
     "tag": ""
   },
   {
     "title": "Navigate the Trolley Problem",
-    "prompt": "Like the famous ethical dilemma of choosing between two tragic outcomes, examine your situation through the lens of impossible choices.\n\nWhat underlying values conflict in your current dilemma?\nHow do intentions and consequences weigh against each other?\nWhat principles could guide you through seemingly impossible choices?\n\nConsider how philosophical frameworks for addressing moral dilemmas might illuminate your path through difficult decisions.",
+    "prompt": "Like the famous ethical dilemma of choosing between two tragic outcomes, examine this situation through the lens of impossible choices.\n\nWhat underlying values conflict in your current dilemma?\nHow do intentions and consequences weigh against each other?\nWhat principles could guide you through seemingly impossible choices?\n\nConsider how philosophical frameworks for addressing moral dilemmas might illuminate your path through difficult decisions.",
     "theme": "Philosophy",
     "tag": ""
   },
@@ -895,13 +895,13 @@
   },
   {
     "title": "Apply Buddhist Emptiness",
-    "prompt": "Consider the Buddhist concept of śūnyatā: all phenomena are empty of inherent existence and arise through interdependent origination.\n\nWhat seemingly solid elements of your situation are actually fluid and interdependent?\nHow might releasing attachment to fixed outcomes create new possibilities?\nWhat changes when you view your challenge as a nexus of relationships rather than independent entities?\n\nHow might embracing emptiness and interconnection transform your approach to apparent obstacles?",
+    "prompt": "Consider the Buddhist concept of śūnyatā: all phenomena are empty of inherent existence and arise through interdependent origination.\n\nWhat seemingly solid elements of this situation are actually fluid and interdependent?\nHow might releasing attachment to fixed outcomes create new possibilities?\nWhat changes when you view your challenge as a nexus of relationships rather than independent entities?\n\nHow might embracing emptiness and interconnection transform your approach to apparent obstacles?",
     "theme": "Philosophy",
     "tag": ""
   },
   {
     "title": "Invoke Sartre's Radical Freedom",
-    "prompt": "We are 'condemned to be free,' responsible for creating meaning in an ultimately meaningless universe.\n\nWhat constraints in your situation are actually self-imposed choices?\nHow might radical acceptance of freedom and responsibility transform your approach?\nWhat becomes possible when you fully embrace your role as meaning-maker?\n\nConsider how existential freedom might both burden and empower you to create new possibilities.",
+    "prompt": "We are 'condemned to be free,' responsible for creating meaning in an ultimately meaningless universe.\n\nWhat constraints in this situation are actually self-imposed choices?\nHow might radical acceptance of freedom and responsibility transform your approach?\nWhat becomes possible when you fully embrace your role as meaning-maker?\n\nConsider how existential freedom might both burden and empower you to create new possibilities.",
     "theme": "Philosophy",
     "tag": ""
   },
@@ -979,13 +979,13 @@
   },
   {
     "title": "Apply Derridean Différance",
-    "prompt": "Deconstruct your situation through Derrida's concept of différance—the endless deferral of meaning where presence contains absence, where definition relies on what it excludes.\n\nIdentify binary oppositions structuring your thinking (presence/absence, solution/problem, success/failure).\n\n*   How might each term secretly harbor its opposite?\n*   Where do you find the 'trace' of what's supposedly excluded?\n*   How can you exploit the undecidability at the heart of key concepts?\n\nDescribe how dwelling in this unresolved space—neither accepting nor rejecting these dichotomies—might generate creative perspectives beyond binary thinking.",
+    "prompt": "Deconstruct this situation through Derrida's concept of différance—the endless deferral of meaning where presence contains absence, where definition relies on what it excludes.\n\nIdentify binary oppositions structuring your thinking (presence/absence, solution/problem, success/failure).\n\n*   How might each term secretly harbor its opposite?\n*   Where do you find the 'trace' of what's supposedly excluded?\n*   How can you exploit the undecidability at the heart of key concepts?\n\nDescribe how dwelling in this unresolved space—neither accepting nor rejecting these dichotomies—might generate creative perspectives beyond binary thinking.",
     "theme": "Philosophy",
     "tag": ""
   },
   {
     "title": "Enact Žižekian Parallax View",
-    "prompt": "Apply Slavoj Žižek's parallax view: the apparent displacement of an object when viewed from different positions, with no neutral middle ground to reconcile perspectives.\n\nRather than seeking synthesis or compromise:\n\n*   Identify two antagonistic perspectives on your situation\n*   Exaggerate their incompatibility to reveal the gap between them\n*   Recognize this gap itself as the 'truth' of the situation\n\nHow might embracing this irreducible gap—this minimal difference that separates the same thing from itself—reveal something more profound than any attempt at harmonious integration?",
+    "prompt": "Apply Slavoj Žižek's parallax view: the apparent displacement of an object when viewed from different positions, with no neutral middle ground to reconcile perspectives.\n\nRather than seeking synthesis or compromise:\n\n*   Identify two antagonistic perspectives on this situation\n*   Exaggerate their incompatibility to reveal the gap between them\n*   Recognize this gap itself as the 'truth' of the situation\n\nHow might embracing this irreducible gap—this minimal difference that separates the same thing from itself—reveal something more profound than any attempt at harmonious integration?",
     "theme": "Philosophy",
     "tag": ""
   },
@@ -997,13 +997,13 @@
   },
   {
     "title": "Practice Adorno's Negative Dialectics",
-    "prompt": "Apply Theodor Adorno's negative dialectics: resisting the tendency of concepts to dominate their objects, maintaining the non-identity between thought and reality.\n\n*   What particular qualities of your situation resist being subsumed under general concepts?\n*   How might conventional 'solutions' actually perpetuate the problem?\n*   Where is dissonance more honest than harmony?\n\nExplore the potential in remaining methodically negative—refusing premature reconciliation or synthesis. How might this stubborn non-identity with established patterns of thought reveal possibilities invisible to affirmative thinking?",
+    "prompt": "Apply Theodor Adorno's negative dialectics: resisting the tendency of concepts to dominate their objects, maintaining the non-identity between thought and reality.\n\n*   What particular qualities of this situation resist being subsumed under general concepts?\n*   How might conventional 'solutions' actually perpetuate the problem?\n*   Where is dissonance more honest than harmony?\n\nExplore the potential in remaining methodically negative—refusing premature reconciliation or synthesis. How might this stubborn non-identity with established patterns of thought reveal possibilities invisible to affirmative thinking?",
     "theme": "Philosophy",
     "tag": ""
   },
   {
     "title": "Invoke Levinas's Face of the Other",
-    "prompt": "Consider your situation through Emmanuel Levinas's ethics of alterity: the face-to-face encounter with absolute otherness that precedes ontology, initiating infinite responsibility.\n\n*   Who or what constitutes the radical 'Other' in this context?\n*   How might you prioritize ethical responsibility to this otherness before questions of knowledge or utility?\n*   What would it mean to be hostage to an infinite demand that can never be fully satisfied?\n\nDetail how approaching through radical respect for alterity—rather than through categorization or appropriation—might transform your very conception of what this situation asks of you.",
+    "prompt": "Consider this situation through Emmanuel Levinas's ethics of alterity: the face-to-face encounter with absolute otherness that precedes ontology, initiating infinite responsibility.\n\n*   Who or what constitutes the radical 'Other' in this context?\n*   How might you prioritize ethical responsibility to this otherness before questions of knowledge or utility?\n*   What would it mean to be hostage to an infinite demand that can never be fully satisfied?\n\nDetail how approaching through radical respect for alterity—rather than through categorization or appropriation—might transform your very conception of what this situation asks of you.",
     "theme": "Philosophy",
     "tag": ""
   },
@@ -1015,7 +1015,7 @@
   },
   {
     "title": "Apply Lacan's Theory of Lack",
-    "prompt": "Examine your situation through Jacques Lacan's psychoanalytic lens: desire is structured around an absent core, a constitutive lack that can never be filled.\n\n*   What fantasies of completeness or satisfaction might be driving your approach?\n*   What fundamental lack or absence is being disavowed?\n*   How might objectives be functioning as objet petit a—the unattainable object-cause of desire that gives shape to yearning?\n\nExplore how acknowledging this essential incompleteness—rather than pursuing illusory wholeness—might transform your relationship to both problems and solutions. What might emerge if you work with lack rather than against it?",
+    "prompt": "Examine this situation through Jacques Lacan's psychoanalytic lens: desire is structured around an absent core, a constitutive lack that can never be filled.\n\n*   What fantasies of completeness or satisfaction might be driving your approach?\n*   What fundamental lack or absence is being disavowed?\n*   How might objectives be functioning as objet petit a—the unattainable object-cause of desire that gives shape to yearning?\n\nExplore how acknowledging this essential incompleteness—rather than pursuing illusory wholeness—might transform your relationship to both problems and solutions. What might emerge if you work with lack rather than against it?",
     "theme": "Philosophy",
     "tag": ""
   },
