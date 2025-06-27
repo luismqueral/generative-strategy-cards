@@ -1,11 +1,12 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Lato, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import { Toaster } from "@/components/ui/sonner";
 import { cn } from "@/lib/utils";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
+const lato = Lato({
+  weight: ['300', '400', '700', '900'],
+  variable: "--font-lato",
   subsets: ["latin"],
 });
 
@@ -15,8 +16,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Generative Strategy Cards",
-  description: "A collection of creative strategy cards for generative thinking",
+  title: "Generative Strategies — Lateral Thinking Prompts for LLMs",
+  description: "Methodologies for lateral machine-thinking. Apply these prompts when interacting with LLMs on codebases, research datasets, or your own prompts. Extremely valuable for larger datasets, both qualitative and quantitative.",
 };
 
 export default function RootLayout({
@@ -27,10 +28,13 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
-        <link rel="icon" href="/favicon.png" />
+        <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+        <link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32" />
+        <link rel="apple-touch-icon" href="/favicon.png" />
+        <link rel="shortcut icon" href="/favicon.ico" />
       </head>
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased min-h-screen`}
+        className={`${lato.variable} ${geistMono.variable} antialiased min-h-screen`}
       >
         {children}
         <Toaster />

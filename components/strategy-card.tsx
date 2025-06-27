@@ -73,11 +73,11 @@ export function StrategyCard({ card }: StrategyCardProps) {
     <div className="mb-10 group">
       <div className="flex-1">
         <div className="flex flex-wrap items-center justify-between gap-2 mb-2">
-          <h2 className="text-xl font-bold">{card.title}</h2>
+          <h2 className="text-xl font-black font-sans">{card.title}</h2>
           
           {/* Theme badge above the text area, right-aligned */}
           {card.theme && (
-            <span className="inline-flex items-center rounded-full bg-primary/10 px-2.5 py-0.5 text-xs font-medium text-primary whitespace-nowrap">
+            <span className="inline-flex items-center rounded-full bg-primary/10 px-2.5 py-0.5 text-xs font-medium font-sans text-primary whitespace-nowrap">
               {card.theme}
             </span>
           )}
