@@ -649,7 +649,13 @@
   },
   {
     "title": "Practice Companion Planting",
-    "prompt": "Some plants thrive when grown near others that offer mutual benefits (e.g., pest deterrence, nutrient sharing, structural support). What elements of your project, or which team members/stakeholders, could be 'companion planted'?\n\n*   Identify entities that, if brought into closer collaboration, would create synergistic benefits.\n*   What unique strengths does each bring that could support the other's weaknesses or enhance their output?\n\nDescribe the 'companion planting' strategy. How will you foster these mutually beneficial relationships to create a more resilient and productive 'garden'?",
+    "prompt": "Some plants enhance each other's growth when planted together, while others compete or inhibit.\n\nAnalyze your project's elements:\n- Which components naturally support each other?\n- What combinations create mutual benefits?\n- Where might competition be reducing effectiveness?\n- How can you arrange elements to maximize positive interactions?\n\nDesign your project layout to foster beneficial relationships between different parts.",
+    "theme": "Nature",
+    "tag": ""
+  },
+  {
+    "title": "Practice Water Management",
+    "prompt": "Successful farming depends on understanding water's movement: too little or too much can be equally problematic.\n\nAnalyze your project's flow of resources:\n- Where are the natural channels of communication and support?\n- What areas suffer from drought or flood of attention?\n- How can you create sustainable irrigation systems?\n- Where should you build retention capacity for lean times?\n\nDevelop a water management plan that works with, not against, your natural gradients and patterns.",
     "theme": "Nature",
     "tag": ""
   },
@@ -838,5 +844,275 @@
     "prompt": "A curl of wood from a well-tuned plane tells everything: the sharpness of the blade, the grain direction, the moisture content. Every process leaves similar telltale signs.\n\nWhat subtle indicators are you overlooking?\nHow might the 'waste' from your process contain valuable information?\nWhat stories are your failures trying to tell you?\n\nWatch the small signs your work produces. What secrets might be revealed in the parts you usually sweep away?",
     "theme": "Other",
     "tag": ""
+  },
+  {
+    "title": "Apply the Ship of Theseus",
+    "prompt": "If every part of a ship is gradually replaced, at what point does it cease to be the same ship? Consider your situation through this ancient paradox of identity and change.\n\nWhat core elements seem essential but might actually be replaceable?\nHow might gradual transformation maintain continuity while enabling complete renewal?\nAt what point does incremental change create something entirely new?\n\nLike the paradoxical ship, how might your understanding of identity and persistence transform if you question what truly makes something 'the same'?",
+    "theme": "Philosophy",
+    "tag": ""
+  },
+  {
+    "title": "Invoke Occam's Razor",
+    "prompt": "The simplest explanation requiring the fewest assumptions is often the best. Strip your situation to its essential elements.\n\nWhat assumptions are you multiplying beyond necessity?\nWhich complexities are truly fundamental, and which are self-imposed?\nHow might radical simplification reveal a clearer path forward?\n\nConsider how removing layers of unnecessary complexity might reveal the elegant solution hiding beneath elaborate explanations.",
+    "theme": "Philosophy",
+    "tag": ""
+  },
+  {
+    "title": "Enter Plato's Cave",
+    "prompt": "Like the prisoners in Plato's allegory, we often mistake shadows for reality. Question your most fundamental assumptions about what's 'real' in your situation.\n\nWhat shadows are you mistaking for substance?\nWhich comfortable illusions might you need to abandon?\nHow could ascending to a higher perspective transform your understanding?\n\nWhat would happen if you turned away from the familiar shadows and faced the source of light?",
+    "theme": "Philosophy",
+    "tag": ""
+  },
+  {
+    "title": "Practice Hegelian Dialectic",
+    "prompt": "Thesis meets antithesis to create synthesis. Identify the opposing forces in your situation and seek their higher unity.\n\nWhat fundamental opposition drives your current challenge?\nHow might these contradictions contain the seeds of their own resolution?\nWhat new synthesis could emerge from embracing both sides?\n\nConsider how apparent contradictions might be resolved not by choosing one side, but by discovering their deeper unity.",
+    "theme": "Philosophy",
+    "tag": ""
+  },
+  {
+    "title": "Apply Nietzschean Perspectivism",
+    "prompt": "There are no facts, only interpretations. Each perspective reveals one facet of a complex truth.\n\nWhat radically different viewpoints might illuminate your situation?\nHow might opposing interpretations all contain partial truths?\nWhat becomes possible when you abandon the search for a single 'correct' view?\n\nLike Nietzsche's perspectivism, how might embracing multiple viewpoints reveal a richer understanding than seeking a single truth?",
+    "theme": "Philosophy",
+    "tag": ""
+  },
+  {
+    "title": "Employ the Categorical Imperative",
+    "prompt": "Consider Kant's principle: Act only according to rules you could will to become universal laws.\n\nWhat if everyone in your situation acted exactly as you propose?\nWhich of your principles could truly serve as universal laws?\nHow might this lens of universality transform your choices?\n\nWhat changes when you evaluate your actions not just by their immediate effects, but by their fitness as universal principles?",
+    "theme": "Philosophy",
+    "tag": ""
+  },
+  {
+    "title": "Navigate the Trolley Problem",
+    "prompt": "Like the famous ethical dilemma of choosing between two tragic outcomes, examine your situation through the lens of impossible choices.\n\nWhat underlying values conflict in your current dilemma?\nHow do intentions and consequences weigh against each other?\nWhat principles could guide you through seemingly impossible choices?\n\nConsider how philosophical frameworks for addressing moral dilemmas might illuminate your path through difficult decisions.",
+    "theme": "Philosophy",
+    "tag": ""
+  },
+  {
+    "title": "Channel Socratic Ignorance",
+    "prompt": "Embrace the paradox that true wisdom begins with acknowledging what we don't know.\n\nWhat do you think you know that might be preventing deeper understanding?\nHow might systematic questioning reveal hidden assumptions?\nWhat becomes possible when you adopt the stance of 'knowing that you don't know'?\n\nLike Socrates, how might embracing your ignorance lead to deeper wisdom than defending your current knowledge?",
+    "theme": "Philosophy",
+    "tag": ""
+  },
+  {
+    "title": "Apply Buddhist Emptiness",
+    "prompt": "Consider the Buddhist concept of śūnyatā: all phenomena are empty of inherent existence and arise through interdependent origination.\n\nWhat seemingly solid elements of your situation are actually fluid and interdependent?\nHow might releasing attachment to fixed outcomes create new possibilities?\nWhat changes when you view your challenge as a nexus of relationships rather than independent entities?\n\nHow might embracing emptiness and interconnection transform your approach to apparent obstacles?",
+    "theme": "Philosophy",
+    "tag": ""
+  },
+  {
+    "title": "Invoke Sartre's Radical Freedom",
+    "prompt": "We are 'condemned to be free,' responsible for creating meaning in an ultimately meaningless universe.\n\nWhat constraints in your situation are actually self-imposed choices?\nHow might radical acceptance of freedom and responsibility transform your approach?\nWhat becomes possible when you fully embrace your role as meaning-maker?\n\nConsider how existential freedom might both burden and empower you to create new possibilities.",
+    "theme": "Philosophy",
+    "tag": ""
+  },
+  {
+    "title": "Mind the Section Cut",
+    "prompt": "Buildings reveal their true nature when sliced open. That perfect line that exposes all layers at once - from foundation to roof, from public to private, from structure to skin.\n\nWhat stories hide between your floors? Cut through your challenge vertically, ruthlessly. Watch how each layer speaks to the others. Notice the hidden chambers, the unexpected connections, the places where different systems touch.\n\nSometimes the most profound insights lie in these surgical revelations. What would a clean slice through your problem expose?",
+    "theme": "Architecture",
+    "tag": ""
+  },
+  {
+    "title": "Design the Negative Space - 間 (Ma)",
+    "prompt": "First, forget everything you want to add.\nInstead, contemplate the spaces between.\nThe gaps.\nThe pauses.\nThe emptiness that gives meaning to form.\n\nLike a Japanese master crafting an alcove where absence speaks louder than presence - what could you remove to make your idea stronger? Where might a carefully crafted void create more impact than any addition?\n\nRemember: It's the space between the notes that makes the music.",
+    "theme": "Architecture",
+    "tag": ""
+  },
+  {
+    "title": "Natural Light as Teacher",
+    "prompt": "Dawn: Long shadows reveal hidden textures\nNoon: Harsh truth of direct illumination\nDusk: Subtle details emerge in slanting rays\nNight: What was hidden now glows from within\n\nYour challenge changes like a building through the day's cycles. When does it show its true nature? What faces east? What hidden corners never see the sun? Where could you cut a new window?\n\nLet time be your collaborator. The sun always finds a way in.",
+    "theme": "Architecture",
+    "tag": ""
+  },
+  {
+    "title": "Prospect & Refuge: A Meditation",
+    "prompt": "Find the highest point in your mind's building.\nLook out across the vast expanse.\nNow seek the intimate corner, the sheltered nook.\nYour solution needs both.\n\nWe are creatures of cave and savanna, forever seeking that perfect balance between overview and sanctuary. Your challenge holds these same primal needs:\n- Where can you stand to see everything?\n- Where can you hide to reflect?\n- How do you move between exposure and shelter?\n\nBuild both the watchtower and the hearth. Your users need somewhere to dream and somewhere to retreat.",
+    "theme": "Architecture",
+    "tag": ""
+  },
+  {
+    "title": "Circulation Patterns: A Field Guide",
+    "prompt": "Watch how people move when no one's watching.\nThey ignore your carefully planned paths.\nThey create desire lines across empty spaces.\nThey cluster in unexpected corners.\nThey find shortcuts you never imagined.\n\nYour systems have the same hidden choreography:\n→ Where do informal paths cross formal structures?\n→ What unofficial shortcuts have emerged?\n→ Which spaces invite lingering?\n→ What doors do people prop open?\n\nThe real architecture emerges from use, not intention. Follow the footprints.",
+    "theme": "Architecture",
+    "tag": ""
+  },
+  {
+    "title": "Adaptive Reuse: Love Letter to Old Buildings",
+    "prompt": "Dear Industrial Warehouse,\nYour vast windows once illuminated factory floors.\nNow they light artists' studios.\nYour steel beams that bore such weight\nNow frame new stories.\n\nEvery challenge is an abandoned building waiting for reinvention:\n- What hidden potential lies dormant?\n- Which constraints could become character?\n- What ghosts should be preserved?\n- What foundations can be trusted?\n\nThe most sustainable building is the one already standing.\nThe most elegant solution often lives within the existing structure.\nListen to what it wants to become.",
+    "theme": "Architecture",
+    "tag": ""
+  },
+  {
+    "title": "Transparency's Edge",
+    "prompt": "Clear\n    Translucent\n        Frosted\n            Obscured\n\nLike a thoughtful glazing design, modulate the visibility of your system. Not everything needs to be exposed. Not everything should be hidden.\n\nPlay with layers:\n- What should be immediately apparent?\n- What should reveal itself slowly?\n- What mysteries should remain?\n- Where might a blur be more honest than clarity?\n\nThe art lies in knowing what to show, what to suggest, and what to conceal.",
+    "theme": "Architecture",
+    "tag": ""
+  },
+  {
+    "title": "Redundant Beauty: Cathedral Lessons",
+    "prompt": "A Gothic cathedral doesn't trust a single solution.\nFlying buttresses layer upon flying buttresses.\nMultiple paths carry the weight.\nFailure of one doesn't mean collapse of all.\n\nIn this complexity lies grace:\n* Where are your single points of failure?\n* What beauty could emerge from overlapping systems?\n* How might backup structures become features, not compromises?\n\nLearn from the medieval masters - sometimes the support becomes the spectacle.",
+    "theme": "Architecture",
+    "tag": ""
+  },
+  {
+    "title": "Scale & Intimacy: A Conversation",
+    "prompt": "GRAND: \"I want to inspire awe!\"\nintimate: \"but will they feel at home?\"\nGRAND: \"They should look up in wonder!\"\nintimate: \"but can they reach the doorknob?\"\n\nYour challenge needs both voices:\n- Moments that expand perspective\n- Details that invite touch\n- Spaces that humble\n- Corners that comfort\n\nLike a cathedral with well-worn pews, let the monumental and the human touch.",
+    "theme": "Architecture",
+    "tag": ""
+  },
+  {
+    "title": "Transitional Spaces: Threshold Theory",
+    "prompt": "Neither here\n    Nor there\n        But becoming\n\nThe Japanese call it ma (間), the Moroccans call it the courtyard, the Europeans their porticos. These in-between spaces - not quite inside, not quite outside - hold the magic.\n\nStudy your thresholds:\n* Where do states change?\n* What mediates between extremes?\n* How long should transition take?\n* What rituals mark passage?\n\nThe space between spaces is where transformation happens.\nRemember: Even doors can be rooms.",
+    "theme": "Architecture",
+    "tag": ""
+  },
+  {
+    "title": "Cartography of Mist",
+    "prompt": "Map the unmappable:\n• The space between decisions\n• The texture of maybe\n• The topology of almost\n• The geography of not-yet\n\nDraw borders around uncertainty\nPlot coordinates of contradiction\nNavigate by the compass of confusion\n\nRemember: fog is just\nclouds that wanted\nto walk among us",
+    "theme": "Experimental",
+    "tag": ""
+  },
+  {
+    "title": "Negative Capability Meditation",
+    "prompt": "::::silence::::\n::::doubt::::\n::::mystery::::\n\nResist the urge to:\n- conclude\n- define\n- understand\n\nInstead:\nFloat in uncertainty\nBreathe in paradox\nDance with ambiguity\n\nLet (not)knowing be enough",
+    "theme": "Experimental",
+    "tag": ""
+  },
+  {
+    "title": "Apply Derridean Différance",
+    "prompt": "Deconstruct your situation through Derrida's concept of différance—the endless deferral of meaning where presence contains absence, where definition relies on what it excludes.\n\nIdentify binary oppositions structuring your thinking (presence/absence, solution/problem, success/failure).\n\n*   How might each term secretly harbor its opposite?\n*   Where do you find the 'trace' of what's supposedly excluded?\n*   How can you exploit the undecidability at the heart of key concepts?\n\nDescribe how dwelling in this unresolved space—neither accepting nor rejecting these dichotomies—might generate creative perspectives beyond binary thinking.",
+    "theme": "Philosophy",
+    "tag": ""
+  },
+  {
+    "title": "Enact Žižekian Parallax View",
+    "prompt": "Apply Slavoj Žižek's parallax view: the apparent displacement of an object when viewed from different positions, with no neutral middle ground to reconcile perspectives.\n\nRather than seeking synthesis or compromise:\n\n*   Identify two antagonistic perspectives on your situation\n*   Exaggerate their incompatibility to reveal the gap between them\n*   Recognize this gap itself as the 'truth' of the situation\n\nHow might embracing this irreducible gap—this minimal difference that separates the same thing from itself—reveal something more profound than any attempt at harmonious integration?",
+    "theme": "Philosophy",
+    "tag": ""
+  },
+  {
+    "title": "Summon the Flâneur",
+    "prompt": "Become Walter Benjamin's flâneur—the urban wanderer observing modernity with detached curiosity, drifting through cities without predetermined paths, collecting impressions and fragments.\n\n*   How would a deliberate aimlessness alter your perception?\n*   What dialectical images—momentary juxtapositions revealing deeper truths—might emerge?\n*   What arcades (passages between established structures) have been overlooked?\n\nDetail how this philosophical wandering—attentive yet unhurried, purposeless yet profound—might reveal constellations of meaning invisible to goal-oriented analysis.",
+    "theme": "Philosophy",
+    "tag": ""
+  },
+  {
+    "title": "Practice Adorno's Negative Dialectics",
+    "prompt": "Apply Theodor Adorno's negative dialectics: resisting the tendency of concepts to dominate their objects, maintaining the non-identity between thought and reality.\n\n*   What particular qualities of your situation resist being subsumed under general concepts?\n*   How might conventional 'solutions' actually perpetuate the problem?\n*   Where is dissonance more honest than harmony?\n\nExplore the potential in remaining methodically negative—refusing premature reconciliation or synthesis. How might this stubborn non-identity with established patterns of thought reveal possibilities invisible to affirmative thinking?",
+    "theme": "Philosophy",
+    "tag": ""
+  },
+  {
+    "title": "Invoke Levinas's Face of the Other",
+    "prompt": "Consider your situation through Emmanuel Levinas's ethics of alterity: the face-to-face encounter with absolute otherness that precedes ontology, initiating infinite responsibility.\n\n*   Who or what constitutes the radical 'Other' in this context?\n*   How might you prioritize ethical responsibility to this otherness before questions of knowledge or utility?\n*   What would it mean to be hostage to an infinite demand that can never be fully satisfied?\n\nDetail how approaching through radical respect for alterity—rather than through categorization or appropriation—might transform your very conception of what this situation asks of you.",
+    "theme": "Philosophy",
+    "tag": ""
+  },
+  {
+    "title": "Construct a Philosophical Hydra",
+    "prompt": "Inspired by Deleuze and Guattari's polycephalous thinking, transform your approach into a multi-headed philosophical beast—a thought experiment where incompatible philosophical systems simultaneously attack the same problem.\n\n*   What if a Stoic, Utilitarian, Daoist, Marxist, Jain, and Transhumanist all addressed this challenge?\n*   How would their contradictory diagnostics and prescriptions illuminate the situation?\n*   Where do their incompatible virtues create productive tension?\n\nRather than choosing one philosophical tradition, cultivate this monstrous hybrid. How does this polycephalous thinking—where multiple heads need not reach consensus—generate greater conceptual biodiversity?",
+    "theme": "Philosophy",
+    "tag": ""
+  },
+  {
+    "title": "Apply Lacan's Theory of Lack",
+    "prompt": "Examine your situation through Jacques Lacan's psychoanalytic lens: desire is structured around an absent core, a constitutive lack that can never be filled.\n\n*   What fantasies of completeness or satisfaction might be driving your approach?\n*   What fundamental lack or absence is being disavowed?\n*   How might objectives be functioning as objet petit a—the unattainable object-cause of desire that gives shape to yearning?\n\nExplore how acknowledging this essential incompleteness—rather than pursuing illusory wholeness—might transform your relationship to both problems and solutions. What might emerge if you work with lack rather than against it?",
+    "theme": "Philosophy",
+    "tag": ""
+  },
+  {
+    "title": "Implement Spivak's Strategic Essentialism",
+    "prompt": "Apply Gayatri Spivak's concept of strategic essentialism: the temporary, tactical use of essentialist identities or categories for strategic purposes, while remaining aware of their constructed nature.\n\n*   What provisional identities, definitions, or boundaries might be tactically useful, even while recognizing their ultimate inadequacy?\n*   How can you deploy simplified categories strategically without being limited by them?\n*   When might deliberate oversimplification serve a greater complexity?\n\nDetail how this paradoxical approach—simultaneously using and subverting categorical thinking—might create strategic advantages while maintaining critical awareness of its own limitations.",
+    "theme": "Philosophy",
+    "tag": ""
+  },
+  {
+    "title": "Apply Athenian Democracy",
+    "prompt": "Ancient Athens pioneered direct democracy, where citizens collectively deliberated and voted on important matters.\n\n*   What would happen if your challenge were subject to an Athenian-style assembly?\n*   How might broader participation, public deliberation, and collective decision-making transform your approach?\n*   What wisdom might emerge from the demos that expert opinion might miss?\n\nExplore how creating a temporary agora—a public space for open exchange—might generate more legitimate and creative solutions than top-down approaches. But also consider the limitations: who would be excluded from your 'citizenship,' and what checks might prevent mob rule?",
+    "theme": "History",
+    "tag": ""
+  },
+  {
+    "title": "Adopt Roman Provincial Governance",
+    "prompt": "The Roman Empire maintained control over diverse territories through a sophisticated balance of central authority and local autonomy.\n\n*   How might you apply the principle of 'divide et impera' (divide and rule) to break down complex challenges into manageable regions or domains?\n*   When should you impose uniform standards (like Roman law), and when should you accommodate local customs and practices?\n*   What infrastructure—physical or conceptual—could you build to bind disparate elements together?\n\nConsider how strategic delegation with clear reporting structures might allow you to extend your influence far beyond what you could directly control. What would your version of Roman roads, aqueducts, and coinage be?",
+    "theme": "History",
+    "tag": ""
+  },
+  {
+    "title": "Channel the Medieval Guild System",
+    "prompt": "Medieval guilds combined quality control, knowledge transfer, and market regulation through a structured system of apprentices, journeymen, and masters.\n\n*   How might clearly defined stages of expertise development improve quality in your context?\n*   What tacit knowledge needs to be preserved and transmitted through direct mentorship rather than formal documentation?\n*   How could you create both collaboration and healthy competition within a community of practice?\n\nConsider how incorporating elements of the guild system—shared standards, skill progression, collective reputation, and mutual support—might foster excellence and innovation while maintaining tradition. What would be your masterpiece?",
+    "theme": "History",
+    "tag": ""
+  },
+  {
+    "title": "Apply Silk Road Trading Principles",
+    "prompt": "For centuries, the Silk Road facilitated exchange between civilizations despite vast distances, language barriers, and cultural differences.\n\n*   What valuable commodities (ideas, resources, skills) do you have to trade, and what do you seek from distant 'kingdoms'?\n*   How can you establish trustworthy intermediaries or caravanserai (safe trading posts) to facilitate exchange across boundaries?\n*   What cultural translation is needed to make your offerings valuable in different contexts?\n\nConsider how establishing durable trade routes across organizational, disciplinary, or cultural barriers might enrich your work through exposure to radically different perspectives and resources. What would be your silk, spices, or porcelain?",
+    "theme": "History",
+    "tag": ""
+  },
+  {
+    "title": "Implement Byzantine Diplomacy",
+    "prompt": "The Byzantine Empire survived a millennium longer than Western Rome by mastering the arts of strategic alliance, calculated ambiguity, and pragmatic compromise.\n\n*   How might you use 'soft power' and diplomatic maneuvering rather than direct confrontation?\n*   Where could strategic ambiguity serve you better than absolute clarity?\n*   What system of alliances could help you balance competing forces and interests?\n\nConsider the Byzantine approach to survival: elaborate protocol that buys time, strategic marriages of convenience, playing rivals against each other, and maintaining cultural prestige even when material power wanes. How could you become the diplomatic hub where multiple worlds intersect?",
+    "theme": "History",
+    "tag": ""
+  },
+  {
+    "title": "Apply Renaissance Patronage",
+    "prompt": "The explosion of artistic and intellectual achievement during the Renaissance was fueled by strategic patronage from wealthy families, popes, and princes.\n\n*   What nascent talent or promising ideas in your environment need protection and resources to flourish?\n*   How might you act as a Medici or Borgia, cultivating brilliance while also advancing your strategic interests?\n*   What balance of freedom and direction creates the most productive creative environment?\n\nConsider how concentrated investment in exceptional talent—giving them both challenge and shelter—might yield innovations that elevate your entire enterprise. Who are your potential Michelangelos, and what is your Sistine Chapel?",
+    "theme": "History",
+    "tag": ""
+  },
+  {
+    "title": "Channel Viking Exploration",
+    "prompt": "The Norse expanded across the North Atlantic through bold exploration, adaptive technology, and establishing strategic outposts.\n\n*   What uncharted territories could you explore with your own version of the longship—technology perfectly adapted to your challenging environment?\n*   How might you establish small, sustainable 'settlements' in new domains before committing larger resources?\n*   What mix of trading, raiding, and colonizing would serve your purposes?\n\nConsider the Viking approach: use superior mobility to reach places others cannot, establish self-sufficient outposts in hostile environments, and maintain flexible networks rather than centralized control. Where is your Vinland?",
+    "theme": "History",
+    "tag": ""
+  },
+  {
+    "title": "Study the Mongol Horde's Mobility",
+    "prompt": "Genghis Khan conquered the largest contiguous land empire in history through unmatched speed, adaptability, and communication.\n\n* What would ruthless mobility and lightweight operations allow you to accomplish that your more settled competitors cannot?\n* How could you create a network where information travels faster than in surrounding systems?\n* What traditions or attachments might you need to abandon to achieve maximum flexibility?\n\nConsider the Mongol approach: travel light, incorporate useful elements from conquered territories, maintain discipline across vast distances, and use speed as your primary advantage. How might you become the force that others must adapt to, rather than the other way around?",
+    "theme": "History",
+    "tag": ""
+  },
+  {
+    "title": "Practice Egyptian Monument Building",
+    "prompt": "The ancient Egyptians created structures of such scale and precision that they continue to awe humanity thousands of years later.\n\n* What are you building that might outlast you by generations?\n* How could meticulous planning, religious dedication, and multi-generational commitment transform your approach?\n* What systems for coordinating large numbers of contributors could you implement?\n\nConsider the Egyptian perspective: align your work with cosmic principles, inscribe meaning into every element, and build for eternity rather than immediate utility. What hieroglyphs would you carve to communicate across millennia?",
+    "theme": "History",
+    "tag": ""
+  },
+  {
+    "title": "Apply Song Dynasty Innovation",
+    "prompt": "China's Song Dynasty (960-1279) experienced unprecedented economic and technological flourishing through urbanization, education, and bureaucratic meritocracy.\n\n* How might you create a system that identifies and elevates talent regardless of background?\n* What infrastructure investments would dramatically increase productivity and exchange in your domain?\n* How could printing, standardization, and information accessibility transform your environment?\n\nConsider the Song approach: combine Confucian scholarship with practical innovation, create civil service examinations to identify merit, develop efficient markets, and invest in transportation networks. What would be your equivalent of movable type or paper currency?",
+    "theme": "History",
+    "tag": ""
+  },
+  {
+    "title": "Implement Dutch Golden Age Commerce",
+    "prompt": "The 17th century Netherlands created unprecedented prosperity through global trade networks, financial innovation, and specialized production.\n\n* How might you create a hub where value from diverse sources can be aggregated, transformed, and redistributed?\n* What financial instruments could help distribute risk and mobilize capital for new ventures?\n* How might specialization and focused expertise create competitive advantage?\n\nConsider the Dutch approach: develop superior logistics and middleman capabilities, create joint-stock companies to fund high-risk ventures, establish trusted financial institutions, and maintain open exchange of ideas. How could you become the Amsterdam of your field?",
+    "theme": "History",
+    "tag": ""
+  },
+  {
+    "title": "Adopt Incan Logistical Excellence",
+    "prompt": "The Inca Empire governed a vast territory across challenging Andean terrain through remarkable organization, record-keeping, and infrastructure.\n\n* How might you develop communication and transportation systems that overcome geographical or organizational barriers?\n* What form might your khipu (knotted cord records) take to track complex information without conventional writing?\n* How could you implement systems of reciprocal obligation to ensure contribution and loyalty?\n\nConsider the Incan approach: build highways connecting distant regions, maintain storehouses to manage surplus and scarcity, use standardized architectural templates, and implement mita labor taxation for public works. What mountains would your royal road traverse?",
+    "theme": "History",
+    "tag": ""
+  },
+  {
+    "title": "Practice Phoenician Trading Strategies",
+    "prompt": "The Phoenicians built a maritime commercial network across the Mediterranean through superior navigation, strategic outposts, and cultural-linguistic adaptability.\n\n* What specialized expertise could make you an invaluable intermediary?\n* How might establishing a chain of outposts extend your reach beyond competitors?\n* What alphabet (simplified communication system) could you develop to facilitate exchange?\n\nConsider the Phoenician approach: develop specialized transportation capability, create colonies that serve as trade hubs, maintain cultural flexibility while preserving core identity, and find valuable materials to transform and redistribute. What would be your purple dye or cedar wood?",
+    "theme": "History",
+    "tag": ""
+  },
+  {
+    "title": "Apply Ottoman Millet System",
+    "prompt": "The Ottoman Empire governed a remarkably diverse population by granting significant autonomy to different religious and ethnic communities while maintaining central authority.\n\n* How might creating semi-autonomous units with clear responsibilities and boundaries improve function?\n* What overarching frameworks are necessary to maintain cohesion while allowing diversity?\n* How could you systematically incorporate foreign talent and expertise?\n\nConsider the Ottoman approach: allow communities to govern their internal affairs according to their own traditions, collect defined contributions while providing protection, and create advancement paths for outsiders with valuable skills. How might you become a Sublime Porte for diverse stakeholders?",
+    "theme": "History",
+    "tag": ""
+  },
+  {
+    "title": "Channel Hanseatic League Cooperation",
+    "prompt": "For centuries, the Hanseatic League dominated northern European trade through a loose confederation of cities that coordinated for mutual benefit while maintaining independence.\n\n* How might you form a network of autonomous peers who advance common interests without central control?\n* What standardized practices or protocols would facilitate seamless interaction?\n* How could shared defense against external threats strengthen internal cooperation?\n\nConsider the Hanseatic approach: establish trading posts in strategic locations, develop shared legal frameworks for dispute resolution, protect members from outside interference, and create exclusive access to valuable markets. What would be your Lübeck Law?",
+    "theme": "History",
+    "tag": ""
   }
-] 
+]

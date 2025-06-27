@@ -88,7 +88,7 @@ export default function Home() {
         <section className="container mx-auto px-4 max-w-3xl flex flex-col items-center text-center mb-4">
           <div className="mb-4">
             <div className="flex items-center justify-center gap-2 font-mono text-sm text-muted-foreground mb-6">
-              <Link href="/about" className="hover:text-foreground transition-all active:translate-y-0.5">
+              <Link href="/about" className="hover:text-foreground hover:underline transition-all active:translate-y-0.5">
                 what is this?
               </Link>
             </div>

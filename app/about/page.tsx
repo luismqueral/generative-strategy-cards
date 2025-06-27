@@ -8,7 +8,7 @@ export default function About() {
         <section className="container mx-auto px-4 max-w-3xl flex flex-col items-center text-center mb-1">
           <div className="mb-4">
             <div className="flex items-center justify-center gap-2 font-mono text-sm text-muted-foreground mb-6">
-              <Link href="/about" className="hover:text-foreground transition-all active:translate-y-0.5">
+              <Link href="/about" className="hover:text-foreground hover:underline transition-all active:translate-y-0.5">
                 what is this?
               </Link>
             </div>
@@ -41,28 +41,28 @@ export default function About() {
               </p>
               
               <p className="text-base leading-relaxed mb-6 font-sans">
-                Copy and paste these on codebases, research datasets, or against your own prompts to challenge models and produce unexpected, often entertaining results.
+                Copy and paste these on codebases, research datasets, or against your own prompts to challenge models and produce unexpected, often entertaining results. They are extremely valuable when used on larger datasets, both qualitative and quantitative.
               </p>
               
               <p className="text-base leading-relaxed mb-6 font-sans">
-                They are extremely valuable when used on larger datasets, both qualitative and quantitative.
+                These were originally developed at The New York Times by <a href="http://queral.studio" className="text-muted-foreground hover:text-foreground hover:underline">Luis Queral</a> and the <em>Generative Design</em> team.
               </p>
               
               <p className="text-base leading-relaxed mb-6 font-sans">
-                These were originally developed at The New York Times by Luis Queral and the Generative Design team.
+                Inspired lovingly by <a href="https://en.wikipedia.org/wiki/Brian_Eno" className="text-muted-foreground hover:text-foreground hover:underline">Brian Eno</a> and <a href="https://en.wikipedia.org/wiki/Peter_Schmidt_(artist)" className="text-muted-foreground hover:text-foreground hover:underline">Peter Schmidt</a>'s <a href="https://en.wikipedia.org/wiki/Oblique_Strategies" className="text-muted-foreground hover:text-foreground hover:underline">Oblique Strategies</a>.
               </p>
               
               <div className="font-sans">
                 <p className="text-base leading-relaxed mb-3">
                   <strong>Thank you to friends who have contributed!</strong>
                 </p>
-                <ul className="list-disc list-inside text-base leading-relaxed space-y-1">
-                  <li>Meg Dholakia</li>
-                  <li>Nina Feinberg</li>
-                  <li>Bon Champion</li>
-                  <li>Sarah Fawwson</li>
-                  <li>Yvonne Tran</li>
-                </ul>
+                <div className="text-base leading-relaxed space-y-1">
+                  <p>Meg Dholakia</p>
+                  <p>Nina Feinberg</p>
+                  <p>Bon Champion</p>
+                  <p>Sarah Fawwson</p>
+                  <p>Yvonne Tran</p>
+                </div>
               </div>
             </div>
           </div>

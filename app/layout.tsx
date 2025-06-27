@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Generative Strategies — Lateral Thinking Prompts for LLMs",
-  description: "Generative Strategies are methodologies for lateral machine-thinking. They can be applied in variety of contexts when interacting with LLM's. Copy and paste these on codebases, research datasets, or against your own prompts.",
+  description: "Generative Strategies are prompts for lateral thinking with LLM's. Copy and paste these on codebases, research datasets, or against your own prompts to challenge models and produce unexpected, often entertaining results.",
 };
 
 export default function RootLayout({
