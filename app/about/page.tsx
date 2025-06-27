@@ -54,15 +54,15 @@ export default function About() {
               
               <div className="font-sans">
                 <p className="text-base leading-relaxed mb-3">
-                  <strong>Thank you to friends who have contributed!</strong>
+                  <strong>Special Shoutout</strong>
                 </p>
-                <div className="text-base leading-relaxed space-y-1">
-                  <p>Meg Dholakia</p>
-                  <p>Nina Feinberg</p>
-                  <p>Bon Champion</p>
-                  <p>Sarah Fawwson</p>
-                  <p>Yvonne Tran</p>
-                </div>
+                <ul className="list-disc list-inside text-base leading-relaxed space-y-1">
+                  <li>Meg Dholakia</li>
+                  <li>Nina Feinberg</li>
+                  <li>Bon Champion</li>
+                  <li>Sarah Fawwson</li>
+                  <li>Yvonne Tran</li>
+                </ul>
               </div>
             </div>
           </div>
