@@ -16,7 +16,7 @@ export default function Home() {
 
   // Set initial background color for Featured category
   useEffect(() => {
-    document.body.style.backgroundColor = '#f5f5f5'; // Light gray
+    document.body.style.backgroundColor = '#f9f9f9'; // Featured category color
   }, []);
 
   // Extract unique themes and tags for filtering
@@ -88,18 +88,20 @@ export default function Home() {
         <section className="container mx-auto px-4 max-w-3xl flex flex-col items-center text-center mb-4">
           <div className="mb-4">
             <div className="flex items-center justify-center gap-2 font-mono text-sm text-muted-foreground mb-6">
-              <Link href="/about" className="hover:text-foreground transition-colors">
+              <Link href="/about" className="hover:text-foreground transition-all active:translate-y-0.5">
                 what is this?
               </Link>
             </div>
-            <Image
-              src="/generative-strategies-logo2-transparent.png"
-              alt="Generative Strategy Cards"
-              width={400}
-              height={133}
-              className="mx-auto mb-1"
-              priority
-            />
+            <Link href="/">
+              <Image
+                src="/generative-strategies-logo2-transparent.png"
+                alt="Generative Strategy Cards"
+                width={400}
+                height={133}
+                className="mx-auto mb-1 cursor-pointer transition-transform active:translate-y-0.5"
+                priority
+              />
+            </Link>
           </div>
         </section>
 

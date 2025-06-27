@@ -1,6 +1,7 @@
 "use client";
 
-import React, { useState } from "react";
+import React, { useState, useEffect, useRef } from "react";
+import twemoji from "twemoji";
 // Search and X icons are no longer needed.
 // import { Search, X } from "lucide-react"; 
 
@@ -15,6 +16,17 @@ export function StrategyFilter({ onFilterChange, onCategoryChange, uniqueThemes,
   // filter state and its handlers are no longer needed as search input is removed.
   const [activeCategory, setActiveCategory] = useState<string>('Featured');
   const [activeTag, setActiveTag] = useState<string | null>(null);
+  const containerRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    if (containerRef.current) {
+      twemoji.parse(containerRef.current, {
+        folder: 'svg',
+        ext: '.svg',
+        base: 'https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/'
+      });
+    }
+  }, [activeCategory]);
 
   const categories = ['Featured', 'Psychology', 'Science', 'Philosophy', 'History', 'Art', 'Nature', 'Politics', 'Religion', 'Architecture', 'Chaotic', 'Experimental', 'Other'];
 
@@ -89,7 +101,7 @@ export function StrategyFilter({ onFilterChange, onCategoryChange, uniqueThemes,
   };
 
   return (
-    <div className="mb-8 w-full">
+    <div className="mb-8 w-full" ref={containerRef}>
       {/* Search input div was removed in a previous step */}
       <div className="flex flex-wrap gap-2 mb-4 w-full justify-center">
         {categories.map((category) => {
@@ -98,7 +110,7 @@ export function StrategyFilter({ onFilterChange, onCategoryChange, uniqueThemes,
             <button
               key={category}
               onClick={() => handleCategoryClick(category)}
-              className={`px-6 py-3 text-lg font-sans rounded-lg cursor-pointer flex items-center gap-2`}
+              className={`px-6 py-3 text-lg font-sans rounded-lg cursor-pointer flex items-center gap-2 transition-all active:translate-y-0.5`}
               style={{
                 backgroundColor: isActive ? categoryDarkColors[category] : 'rgba(0, 0, 0, 0.03)',
                 color: isActive ? '#fff' : '#000',
@@ -117,7 +129,7 @@ export function StrategyFilter({ onFilterChange, onCategoryChange, uniqueThemes,
                 }
               }}
             >
-              {isActive && <span>{categoryEmojis[category]}</span>}
+              {isActive && <span className="emoji-icon">{categoryEmojis[category]}</span>}
               <span style={{ fontWeight: isActive ? 'bold' : 'normal' }}>{category}</span>
             </button>
           );

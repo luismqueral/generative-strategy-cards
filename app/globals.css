@@ -84,3 +84,13 @@
     @apply bg-background text-foreground;
   }
 }
+
+/* Twemoji styling */
+.emoji-icon img {
+  width: 24px !important;
+  height: 24px !important;
+  display: inline-block !important;
+  vertical-align: baseline !important;
+  margin-right: 8px !important;
+  transform: translateY(2px) !important;
+}

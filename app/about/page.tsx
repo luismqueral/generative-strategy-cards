@@ -3,12 +3,12 @@ import Image from "next/image";
 
 export default function About() {
       return (
-    <div className="flex min-h-screen flex-col bg-gray-50">
-      <header className="py-4">
-        <section className="container mx-auto px-4 max-w-3xl flex flex-col items-center text-center">
-                      <div className="mb-3">
+    <div className="flex min-h-screen flex-col" style={{backgroundColor: '#f9f9f9'}}>
+      <header className="pt-8 pb-2">
+        <section className="container mx-auto px-4 max-w-3xl flex flex-col items-center text-center mb-1">
+          <div className="mb-4">
             <div className="flex items-center justify-center gap-2 font-mono text-sm text-muted-foreground mb-6">
-              <Link href="/about" className="hover:text-foreground transition-colors">
+              <Link href="/about" className="hover:text-foreground transition-all active:translate-y-0.5">
                 what is this?
               </Link>
             </div>
@@ -18,7 +18,7 @@ export default function About() {
                 alt="Generative Strategy Cards"
                 width={400}
                 height={133}
-                className="mx-auto mb-0 cursor-pointer"
+                className="mx-auto mb-1 cursor-pointer transition-transform active:translate-y-0.5"
                 priority
               />
             </Link>
