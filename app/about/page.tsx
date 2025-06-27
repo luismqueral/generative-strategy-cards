@@ -33,28 +33,28 @@ export default function About() {
           <div className="bg-white rounded-lg p-8 shadow-sm">
             <div className="prose prose-gray max-w-none">
               <p className="text-lg leading-relaxed mb-6 font-sans font-bold">
-                Generative Strategies are prompts for lateral machine-thinking.
+                <em>Generative Strategies</em> are prompts for <a href="https://en.wikipedia.org/wiki/Lateral_thinking" className="text-muted-foreground hover:text-foreground hover:underline">lateral thinking</a>.
               </p>
               
               <p className="text-base leading-relaxed mb-6 font-sans">
-                They can be applied in variety of contexts when interacting with LLM's.
+                This curated collection of prompts are designed to be used with Large Language Models (LLM's) to inspire momentum through unexpected and entertaining results.
               </p>
               
               <p className="text-base leading-relaxed mb-6 font-sans">
-                Copy and paste these on codebases, research datasets, or against your own prompts to challenge models and produce unexpected, often entertaining results. They are extremely valuable when used on larger datasets, both qualitative and quantitative.
+                Copy and paste these prompts when working with codebases, research datasets, or against your own prompts. They are particularly useful on larger datasets, both qualitative and quantitative.
               </p>
               
               <p className="text-base leading-relaxed mb-6 font-sans">
-                These were originally developed at The New York Times by <a href="http://queral.studio" className="text-muted-foreground hover:text-foreground hover:underline">Luis Queral</a> and the <em>Generative Design</em> team.
+                These were originally developed at The New York Times by <a href="http://queral.studio" className="text-muted-foreground hover:text-foreground hover:underline">Luis Queral</a> and the Generative Design team.
               </p>
               
               <p className="text-base leading-relaxed mb-6 font-sans">
-                Inspired lovingly by <a href="https://en.wikipedia.org/wiki/Brian_Eno" className="text-muted-foreground hover:text-foreground hover:underline">Brian Eno</a> and <a href="https://en.wikipedia.org/wiki/Peter_Schmidt_(artist)" className="text-muted-foreground hover:text-foreground hover:underline">Peter Schmidt</a>'s <a href="https://en.wikipedia.org/wiki/Oblique_Strategies" className="text-muted-foreground hover:text-foreground hover:underline">Oblique Strategies</a>.
+                Lovingly inspired by <a href="https://en.wikipedia.org/wiki/Brian_Eno" className="text-muted-foreground hover:text-foreground hover:underline">Brian Eno</a> and <a href="https://en.wikipedia.org/wiki/Peter_Schmidt_(artist)" className="text-muted-foreground hover:text-foreground hover:underline">Peter Schmidt</a>'s <a href="https://en.wikipedia.org/wiki/Oblique_Strategies" className="text-muted-foreground hover:text-foreground hover:underline">Oblique Strategies</a>.
               </p>
               
               <div className="font-sans">
                 <p className="text-base leading-relaxed mb-3">
-                  <strong>Special Shoutout</strong>
+                  <strong>Special Shoutout:</strong>
                 </p>
                 <ul className="list-disc list-inside text-base leading-relaxed space-y-1">
                   <li>Meg Dholakia</li>
