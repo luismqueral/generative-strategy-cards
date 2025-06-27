@@ -124,7 +124,7 @@ export default function Home() {
                 placeholder="Search strategies..."
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
-                className="w-full pl-10 pr-10 py-3 border border-gray-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary font-sans text-base"
+                className="w-full pl-10 pr-10 py-3 bg-white border border-gray-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary font-sans text-base"
               />
               {searchQuery && (
                 <button
@@ -158,7 +158,7 @@ export default function Home() {
         </div>
       </main>
 
-      <footer className="border-t py-6">
+      <footer className="py-6">
         <div className="container mx-auto px-4 text-center text-sm text-muted-foreground font-mono">
           <p>
             a project by Luis Queral — <a 

@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Generative Strategies — Lateral Thinking Prompts for LLMs",
-  description: "Methodologies for lateral machine-thinking. Apply these prompts when interacting with LLMs on codebases, research datasets, or your own prompts. Extremely valuable for larger datasets, both qualitative and quantitative.",
+  description: "Prompts for lateral machine-thinking. Apply these when interacting with LLMs on codebases, research datasets, or your own prompts. Extremely valuable for larger datasets, both qualitative and quantitative.",
 };
 
 export default function RootLayout({
